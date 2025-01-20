@@ -1,0 +1,633 @@
+Created Date,Opportunity Owner,Account,Opportunity Name,Amount,Amount (converted),Close Date,Type,Stage,Opportunity #,Year Created,Year Closed,Sales Cycle Duration,Month Created,Month Closed,Won
+2023-12-04,Timothy Keen,Vertex Pharmaceuticals Incorporated,Raw Material Method Establishment & Qualification,1826080.0,2029029.6307572303,2024-08-06,New Business,Closed Lost,331379,2023,2024,246,12,8,False
+2023-07-20,Livia Lu,ContraFect Corporation,Analytical Methods Transfer,1720480.0,1911693.298828748,2023-12-06,Existing Business,Closed Lost,316509,2023,2023,139,7,12,False
+2023-10-11,Kjell Richter,Takeda Pharmaceuticals Intl. AG IE,2024 Yearly Quote - Routine Testing for 2024,1570492.0,1745035.706468054,2024-01-04,Existing Business,Closed Won,325331,2023,2024,85,10,1,True
+2023-02-03,Amy Zemanek,enGene Inc.,WCB and ELISA method validation,1495135.0,1661303.5666467033,2023-06-23,New Business,Closed Won,297300,2023,2023,140,2,6,True
+2023-10-09,Galiya Sakaeva,Biotest AG,2024 Yearly Quote - Routine Testing for 2024,1283205.0,1425819.770949702,2024-01-10,Existing Business,Closed Won,324967,2023,2024,93,10,1,True
+2023-02-20,Nicola Wright,Virocell Biologics Ltd.,Dedicated service model - routine testing,1258240.0,1398080.173159981,2023-08-21,New Business,Closed Won,299350,2023,2023,182,2,8,True
+2022-12-19,Michael Spring,PolyPeptide Laboratories Sweden AB,cell based ELISA bioassay for Tirzepatide,1177093.0,1307914.535593687,2023-07-11,New Business,Closed Lost,292359,2022,2023,204,12,7,False
+2023-06-27,Laura Karkowski,Eli Lilly Kinsale Limited,RFP rightsource,1143698.0,1270808.0317608116,2024-02-13,New Business,Closed Lost,314148,2023,2024,231,6,2,False
+2023-12-13,Nicole Kovacs,Medimmune UK Limited,Yearly Quote -Annual Testing for 2024 -  in vivo,969046.0,1268539.233178908,2024-02-08,Existing Business,Closed Won,332410,2023,2024,57,12,2,True
+2023-10-11,Galiya Sakaeva,IDT Biologika GmbH,2024 yearly Quote - Routine Testing for 2024,1103540.0,1226186.8914427813,2024-01-09,Existing Business,Closed Won,325351,2023,2024,90,10,1,True
+2023-12-07,Nicole Kovacs,AstraZeneca Pharmaceuticals LP,FFA Stability Project,979185.0,1088011.138062417,2024-08-27,Existing Business,Closed Lost,331816,2023,2024,264,12,8,False
+2023-10-09,Aaron Reed,"ADMA Biologics, Inc.",2024 Yearly Quote - Routine Testing for 2024,940000.0,1044471.1364845992,2024-01-02,Existing Business,Closed Won,324955,2023,2024,85,10,1,True
+2023-10-10,Nicola Wright,Ipsen Biopharm Limited,2024 Yearly Quote - Routine Testing for 2024,850000.0,944468.5808637332,2024-03-05,Existing Business,Closed Won,325129,2023,2024,147,10,3,True
+2023-10-09,Nicola Wright,BTG International Ltd,2024 Yearly Quote - Routine Testing for 2024,820000.0,911134.395656778,2024-01-16,Existing Business,Closed Won,324970,2023,2024,99,10,1,True
+2023-04-11,Monica Shin,Chong Kun Dang Pharmaceutical Corp.,Stability testing of Biosimiliar,742512.0,825034.4175462262,2023-11-10,Existing Business,Closed Lost,305530,2023,2023,213,4,11,False
+2023-11-01,Amanda Sotoodeh,WuXi Vaccines Ireland Limited,2024 Yearly Quote - Routine Testing for 2024,700000.0,777797.6548289567,2024-01-30,Existing Business,Closed Won,327818,2023,2024,90,11,1,True
+2023-11-01,Amanda Sotoodeh,WuXi Biologics Ireland Limited,2024 Yearly Quote - Routine testing for 2024,700000.0,777797.6548289567,2024-02-13,Existing Business,Closed Won,327819,2023,2024,104,11,2,True
+2023-10-11,Nicola Wright,Reacta Biotech Limited,2024 Yearly Quote - Routine testing for 2024,603000.0,670017.1226598013,2024-02-14,Existing Business,Closed Won,325310,2023,2024,126,10,2,True
+2023-07-25,Nicola Wright,Lonza Biologics Plc,"R&D routine analysis (HPLC, rDNA, HCP, Elisa, icIEF)",600000.0,666683.7041391057,2024-02-27,New Business,Closed Lost,316983,2023,2024,217,7,2,False
+2023-02-03,Amy Zemanek,"Elanco US, Inc.",RFP BioA additional assays,586820.0,652038.8854381834,2023-03-15,New Business,Closed Won,297256,2023,2023,40,2,3,True
+2023-08-01,Sanjona Bandyopadhyay,GlaxoSmithKline Biologicals SA,Boostrix Analytical testing- Bastin,570285.0,633666.1936916165,2023-10-23,New Business,Closed Lost,317777,2023,2023,83,8,10,False
+2023-10-10,Michael Spring,Galderma AB,2024 Yearly Quote - Routine testing for 2024,550000.0,611126.7287941803,2024-01-08,Existing Business,Closed Won,325120,2023,2024,90,10,1,True
+2023-11-13,Hope Apolinar,Supernus Pharmaceuticals Inc,LD50 routine testing,536000.0,595570.7756976011,2024-01-02,Existing Business,Closed Won,329070,2023,2024,50,11,1,True
+2023-10-11,Laura Karkowski,PPD Development LP,2024 Yearly Quote - Routine Testing for 2024,510000.0,566681.14851824,2024-01-02,Existing Business,Closed Won,325309,2023,2024,83,10,1,True
+2023-07-27,Amy Zemanek,"Elanco US, Inc.",method validation of second molecule canine IgG B,507440.0,563836.6313805798,2024-12-02,New Business,Negotiate,317370,2023,2024,494,7,12,False
+2023-10-10,Galiya Sakaeva,Merz Therapeutics Gmbh,2024 Yearly Quote - Routine Testing for 2024,504000.0,560014.3114768489,2024-01-02,Existing Business,Closed Won,325150,2023,2024,84,10,1,True
+2023-04-19,Nicola Wright,Meiyume UK Limited,Stability studies for Sunscreen,463431.0,514936.4928214832,2023-08-01,New Business,Closed Lost,306554,2023,2023,104,4,8,False
+2023-02-02,Galiya Sakaeva,Paul-Ehrlich-Institut,RPT testing,456035.0,506718.50502846186,2023-05-26,New Business,Closed Lost,297095,2023,2023,113,2,5,False
+2023-10-10,Laura Karkowski,Horizon Therapeutics Ireland DAC,2024 Yearly Quote - Routine Testing for 2024 - Commercial/Stability,450000.0,500012.7781043293,2024-02-07,Existing Business,Closed Won,325145,2023,2024,120,10,2,True
+2023-10-09,Paula Kassouf,"Audentes Therapeutics, Inc",2024 Yearly Quote - Routine Testing for 2024,415000.0,461122.8953628815,2024-02-14,Existing Business,Closed Won,324961,2023,2024,128,10,2,True
+2023-07-11,Galiya Sakaeva,Takeda GmbH,in vivo adv. virus testing,405780.0,450878.1891092772,2024-08-20,New Business,Closed Lost,315389,2023,2024,406,7,8,False
+2022-10-19,Nicola Wright,Ascend Gene & Cell Therapies Ltd,PQ - AAV drug substance release,391543.0,435058.8959495631,2023-10-31,New Business,Closed Lost,285613,2022,2023,377,10,10,False
+2023-10-10,Bjoern Kolbe,Miltenyi Biotec B.V. & Co. KG,2024 Yearly Quote - Routine Testing for 2024,380000.0,422233.0126214337,2024-09-18,Existing Business,Closed Won,325154,2023,2024,344,10,9,True
+2023-12-11,Christopher Herz,Galderma SA,Batch Release testing Nemolizumab - RFI,406325.0,406325.0,2024-05-14,New Business,Closed Lost,332073,2023,2024,155,12,5,False
+2023-03-20,Olaf Stamm,USV Pvt Limited,Filgrastim Batch Release Testing,352545.0,391726.6774595351,2024-02-21,Existing Business,Closed Lost,302799,2023,2024,338,3,2,False
+2023-04-04,Monica Shin,Chong Kun Dang Pharmaceutical Corp.,QC relaease testing,351960.0,391076.66084799945,2023-11-10,New Business,Closed Lost,304815,2023,2023,220,4,11,False
+2023-06-20,Amy Zemanek,"Elanco US, Inc.",HPLC method validation,347110.0,385687.63423954166,2023-09-25,New Business,Closed Won,313247,2023,2023,97,6,9,True
+2023-10-10,Laura Karkowski,Horizon Therapeutics Ireland DAC,2024 Yearly Quote - Routine Testing for 2024 - Development,340680.0,378543.0072101842,2024-03-20,Existing Business,Closed Won,325144,2023,2024,162,10,3,True
+2023-10-09,Nicola Wright,Bio Products Laboratory Limited,2024 Yearly Quote - Routine Testing for 2024,335470.0,372753.970379243,2024-01-02,Existing Business,Closed Won,324969,2023,2024,85,10,1,True
+2023-04-14,Nicola Wright,Institute of Opthamology - UCL,Lentivirus release test - Q4 2023/Q12024,335253.0,372512.8531062461,2024-01-04,New Business,Closed Lost,306014,2023,2024,265,4,1,False
+2023-03-01,Nicola Wright,Aspen Oss B.V.,hCG Hormone Testing,328940.0,365498.22939919576,2023-10-10,New Business,Closed Lost,300474,2023,2023,223,3,10,False
+2023-08-14,Christopher Herz,Kamada Ltd,Release testing KAMRAB,323700.0,359675.8583830476,2024-04-25,New Business,Closed Lost,319051,2023,2024,255,8,4,False
+2023-01-31,Laura Karkowski,Zoetis Belgium SA(Irish Branch),water testing,322610.0,358464.7163205282,2023-02-28,New Business,Closed Lost,296638,2023,2023,28,1,2,False
+2023-10-23,Amy Zemanek,"Elanco US, Inc.",Stability study for Drug Product for Parvo Mfg Batch,312340.0,347053.3135846805,2023-12-07,New Business,Closed Won,326648,2023,2023,45,10,12,True
+2023-10-12,Amy Zemanek,Cellipont Bioservices,Disinfectant Study,305696.0,339670.9027008468,2024-02-21,New Business,Closed Lost,325608,2023,2024,132,10,2,False
+2023-05-11,Laura Karkowski,BD Research Centre Ireland,"Immunogenicity Studies (rats & mice, serum and splenocyte supply) - 3 year project",300000.0,333341.8520695529,2023-09-12,New Business,Closed Lost,309007,2023,2023,124,5,9,False
+2023-12-18,Amy Zemanek,Biosentinel Pharmaceuticals,LD50 testing,288845.0,320947.0908701,2024-01-02,Existing Business,Closed Won,332858,2023,2024,15,12,1,True
+2023-10-26,Jun Long Tan,Bionet-Asia Co Ltd,Bionet vaccine release testing for EU market,284150.0,315730.2908852115,2024-04-27,New Business,Closed Lost,327124,2023,2024,184,10,4,False
+2022-12-20,Christopher Herz,IBSA SA,"In-vivo, human Gonadotrophin bioassay-Week TBD",273150.0,303507.7563093279,2023-04-19,New Business,Closed Lost,292525,2022,2023,120,12,4,False
+2023-08-08,Christopher Herz,Anjarium Biosciences AG,Lot release testing - non-viral vectors; non GMP part,272145.0,302391.0611048949,2023-11-16,New Business,Closed Lost,318451,2023,2023,100,8,11,False
+2023-02-13,Livia Lu,Benevira Inc,In vivo evaluation of B521 against SarsCoV2,268585.0,298435.4044603362,2024-01-31,New Business,Closed Lost,298428,2023,2024,352,2,1,False
+2023-10-10,Nicola Wright,MicroPharm Ltd,2024 Yearly Quote - Routine Testing for 2024,267000.0,296674.24834190204,2024-02-05,Existing Business,Closed Won,325151,2023,2024,118,10,2,True
+2023-02-24,Olaf Stamm,Curateq Biologics Pvt Ltd,EU release testing filgrastim,265434.0,294934.203874099,2024-02-21,New Business,Closed Lost,299929,2023,2024,362,2,2,False
+2023-05-30,Michael Spring,Q-Med AB,LD50 Testing,257308.0,285905.08424104174,2023-06-27,Existing Business,Closed Won,310875,2023,2023,28,5,6,True
+2022-12-02,Nicola Wright,aVaxziPen Limited,DP release test - Phase 1 - RFP,253295.0,281446.081399858,2023-04-11,New Business,Closed Lost,290568,2022,2023,130,12,4,False
+2023-04-04,Jun Long Tan,Esco Aster Pte Ltd,RV Release Testing,242490.0,269440.2190278196,2023-05-11,New Business,Closed Lost,304810,2023,2023,37,4,5,False
+2023-10-31,Amy Zemanek,Biovectra Inc.,cell based assay MD,235825.0,262034.47421434103,2024-02-08,New Business,Closed Lost,327732,2023,2024,100,10,2,False
+2023-01-18,Nicola Wright,Virocell Biologics Ltd.,Right Source- dedicated service -Verification and Transfer,231581.0,257318.79814706376,2023-08-21,Existing Business,Closed Won,294842,2023,2023,215,1,8,True
+2023-05-17,Galiya Sakaeva,Ceva Tiergesundheit (Reims) GmbH,Residual virulence test on the WSV vaccine,225220.0,250250.83974368236,2024-03-12,New Business,Closed Lost,309658,2023,2024,300,5,3,False
+2023-10-19,Amy Zemanek,enGene Inc.,FTE Model,223000.0,247784.11003836765,2023-11-28,Existing Business,Closed Lost,326356,2023,2023,40,10,11,False
+2023-10-09,Laura Karkowski,Alvotech hf,2024 Yearly Quote - Routine Testing for 2024,220000.0,244450.6915176721,2024-01-08,Existing Business,Closed Won,324959,2023,2024,91,10,1,True
+2023-01-12,Nicola Wright,Meiyume UK Limited,Validation of test methods for sunscreen,216280.0,240317.25255200965,2023-08-01,New Business,Closed Lost,294245,2023,2023,201,1,8,False
+2023-02-24,Nicole McAlpine,"Just-Evotec Biologics, Inc.",Disinfectant Efficacy Study- Just-Evotec,215650.0,239617.2346626636,2023-04-11,New Business,Closed Lost,300063,2023,2023,46,2,4,False
+2023-05-09,Christopher Herz,Adalvo Limited,EU Release testing 3rd party,212645.0,236278.2604444336,2023-06-23,New Business,Closed Lost,308616,2023,2023,45,5,6,False
+2022-12-16,Laura Karkowski,Horizon Therapeutics Ireland DAC,DS testing,209184.0,232432.60661105785,2023-03-27,Existing Business,Closed Won,292215,2022,2023,101,12,3,True
+2023-10-18,Bjoern Kolbe,Wuxi Biologics Germany GmbH,2024 Yearly Quote - Routine Testing for 2024,200000.0,222227.9013797019,2024-01-02,Existing Business,Closed Won,326265,2023,2024,76,10,1,True
+2023-10-10,Christopher Herz,Gedeon Richter Plc.,2024 Yearly Quote - Routine Testing for 2024,200000.0,222227.9013797019,2024-02-12,Existing Business,Closed Won,325121,2023,2024,125,10,2,True
+2023-01-17,Nicola Wright,Bio Products Laboratory Limited,2023 Yearly Quote: Testing for 2023,199970.0,222194.56719449497,2023-02-11,Existing Business,Closed Won,294705,2023,2023,25,1,2,True
+2023-03-10,Sarah Boocock,Takara Bio Europe Swedish Filial,PQ - GMP-QC testing of iPSC MCB,197593.0,219553.38858659723,2024-10-11,New Business,Closed Lost,301763,2023,2024,581,3,10,False
+2023-12-08,Nicola Wright,Exmoor Pharma Concepts Ltd,LV release testing,192340.0,213716.57275685933,2024-02-05,New Business,Closed Lost,331952,2023,2024,59,12,2,False
+2023-06-20,Livia Lu,ContraFect Corporation,Lysozyme Method Transfer - ContraFect - OPP-313268,191165.0,212410.9838362536,2023-08-10,Existing Business,Closed Won,313268,2023,2023,51,6,8,True
+2023-08-23,Christopher Herz,Anjarium Biosciences AG,Lot release testing - non-viral vectors; GMP part,190891.0,212106.5316113634,2023-10-17,New Business,Cancelled,319987,2023,2023,55,8,10,False
+2022-12-20,Nicola Wright,EmRgen,Sterility and Myco,186335.0,207044.1800179338,2023-01-20,New Business,Closed Lost,292545,2022,2023,31,12,1,False
+2023-05-05,Nicole McAlpine,Seagen Inc,Disinfectant Efficacy Study- Seagen,185618.0,206247.49299148755,2023-12-19,New Business,Closed Won,308293,2023,2023,228,5,12,True
+2023-10-11,Chad Dubbelde,Elicio Therapeutics Inc.,Mouse Immunization / Potency Study,182985.0,203321.86266982375,2024-08-21,New Business,Closed Lost,325395,2023,2024,315,10,8,False
+2023-10-11,Laura Karkowski,Pfizer Ireland Pharma (GC52),2024 Yearly Quote - Routine Testing for 2024 - ATGAM,176250.0,195838.33809086232,2024-01-02,Existing Business,Closed Won,325299,2023,2024,83,10,1,True
+2023-10-11,Laura Karkowski,Pfizer Ireland Pharma (GC52),2024 Yearly Quote- Routine Testing for 2024,174735.0,194154.96173791107,2024-01-02,Existing Business,Closed Won,325300,2023,2024,83,10,1,True
+2023-04-13,Nicola Wright,Sartorius Stedim Biooutsource Ltd,"HEK HCP and Protein A ELISA - Phase 1, endotoxin, mycoplasma",169555.0,188399.2590921768,2023-05-10,New Business,Closed Lost,305828,2023,2023,27,4,5,False
+2023-02-10,Paula Kassouf,"Akero Therapeutics, Inc.",Transport testing,168430.0,187149.227146916,2023-03-21,New Business,Closed Won,298196,2023,2023,39,2,3,True
+2022-12-22,Hope Apolinar,Lentigen Technology Inc,Disinfectant Efficacy Testing,166100.0,184560.2720958425,2024-11-26,New Business,Negotiate,292836,2022,2024,705,12,11,False
+2023-10-11,Laura Karkowski,Topchem Pharmaceuticals,2024 Yearly Quote - Routine Testing for 2024,165000.0,183338.01863825409,2024-01-09,Existing Business,Closed Won,325337,2023,2024,90,10,1,True
+2023-10-11,Laura Karkowski,Fujifilm Diosynth Biotechnologies,"AD5 vv- sterility, sub vis, myco, in vitro in vivo AVA, RCA",161357.0,179290.13741462282,2024-05-27,New Business,Closed Lost,325286,2023,2024,229,10,5,False
+2023-04-03,Paula Kassouf,"Akero Therapeutics, Inc.",Residual Impurities for DS Process,159460.0,177182.30577003636,2023-07-14,New Business,Closed Won,304637,2023,2023,102,4,7,True
+2023-10-10,Aisling Mullaney,HemaCare Corporation, Disinfectant Testing,158775.0,176421.17520781083,2024-05-20,New Business,Closed Won,325159,2023,2024,223,10,5,True
+2023-01-26,Laura Karkowski,Phibro Animal Health Corporation,"AVA testing using CEF cells (feas, qual, RT)",155835.0,173154.42505752924,2023-06-12,Existing Business,Closed Lost,296083,2023,2023,137,1,6,False
+2023-06-02,Christopher Herz,Polymun Scientific Immunbiologische,MCB7WCB/BH quote EU testing,155035.0,172265.51345201043,2024-03-18,New Business,Closed Lost,311356,2023,2024,290,6,3,False
+2023-07-24,Christopher Herz,Luminera Derm LTD,Batch release testing,153978.0,171091.0389932187,2024-10-31,New Business,Cancelled,316820,2023,2024,465,7,10,False
+2023-10-04,Amy Zemanek,"Elanco US, Inc.",Stability Study,152470.0,169415.44061681576,2023-11-10,Existing Business,Closed Won,324553,2023,2023,37,10,11,True
+2023-10-09,Bjoern Kolbe,BioNTech Innovative,2024 Yearly Quote - Routine Testing for 2024,150000.0,166670.92603477644,2024-01-22,Existing Business,Closed Won,324966,2023,2024,105,10,1,True
+2023-10-25,Paula Kassouf,"IGM Biosciences, Inc.",Disinfectant Study,148660.0,165181.99909553243,2024-02-07,Existing Business,Closed Lost,327004,2023,2024,105,10,2,False
+2023-01-11,Jun Long Tan,Burnet Institute,BSL3 challenge studies,143150.0,159059.62041252165,2024-01-08,New Business,Closed Lost,294006,2023,2024,362,1,1,False
+2023-02-27,Nicole Kovacs,Medimmune Limited,Morphine induced Ferret emesis model,139485.0,154987.29411973862,2023-10-03,Existing Business,Closed Lost,300119,2023,2023,218,2,10,False
+2023-01-13,Nicola Wright,GlaxoSmithKline,Release test pannel of oligonucleotide,138290.0,153659.4824089949,2023-06-27,New Business,Closed Lost,294374,2023,2023,165,1,6,False
+2023-05-08,Laura Karkowski,Almac Sciences (Ireland) Ltd,Teriparatide Bioassay using kit,136300.0,151448.31479026686,2023-06-15,Existing Business,Closed Lost,308499,2023,2023,38,5,6,False
+2023-10-17,Paula Kassouf,"Audentes Therapeutics, Inc",Conduct of the Qualification of A 4 Week Single Dose Study of AT845,133100.0,147892.66836819163,2024-08-27,Existing Business,Closed Won,326024,2023,2024,315,10,8,True
+2023-10-09,Laura Karkowski,Ballinskelligs Vet Product,2024 Yearly Quote - Routine Testing for 2024,133000.0,147781.5544175018,2024-01-02,Existing Business,Closed Won,324971,2023,2024,85,10,1,True
+2023-02-21,Laura Karkowski,WuXi Biologics Ireland Limited,"outsourced raw material, routine testing",132870.0,147637.10628160497,2023-03-23,Existing Business,Closed Won,299462,2023,2023,30,2,3,True
+2023-05-02,Brennan Ramos,Supernus Pharmaceuticals Inc,LD50 testing to study plan,130315.0,144798.14484147928,2023-05-04,Existing Business,Closed Won,307775,2023,2023,2,5,5,True
+2023-10-05,Paula Kassouf,"Akero Therapeutics, Inc.",Purchase of Equipment for stability studies,129871.0,144304.79890041635,2024-02-01,Existing Business,Closed Won,324733,2023,2024,119,10,2,True
+2023-04-19,Francois Devesa,Transgene SA,Rapid sterility comparability study,128398.0,142668.09040675484,2024-02-09,New Business,Closed Lost,306523,2023,2024,296,4,2,False
+2023-12-19,Laura Karkowski,WuXi Biologics Ireland Limited,"UBH testing, routine & verification",126200.0,140225.80577059192,2024-02-19,Existing Business,Closed Won,333084,2023,2024,62,12,2,True
+2023-07-17,Galiya Sakaeva,Takeda GmbH,myco comparability assay: culture method,125000.0,138892.4383623137,2024-08-21,New Business,Closed Won,316028,2023,2024,401,7,8,True
+2023-05-24,Hope Apolinar,Supernus Pharmaceuticals Inc,LD50 testing - (12 assays + Study plan and report),122180.0,135759.0249528599,2023-06-26,Existing Business,Closed Won,310397,2023,2023,33,5,6,True
+2023-07-11,Brennan Ramos,"Alkermes, Inc.",RPT on 3 batches of DP/IVSS and MAT on 3 batches of DP,121002.0,134450.10261373347,2023-11-07,New Business,Cancelled,315408,2023,2023,119,7,11,False
+2023-01-11,Galiya Sakaeva,GlaxoSmithKline Biologicals,Ferret Antisera production - 10 ferrets,119225.0,132475.6077099748,2023-03-15,Existing Business,Closed Won,293998,2023,2023,63,1,3,True
+2023-05-30,Christopher Herz,Steriscience Sp. z o.o.,Immunization in SD rats,114680.0,127425.47865112108,2024-06-21,New Business,Cancelled,310845,2023,2024,388,5,6,False
+2023-12-04,Amy Zemanek,Ayass BioScience LLC,immuno oncology drug testing,123295.0,123295.0,2024-04-08,New Business,Closed Lost,331370,2023,2024,126,12,4,False
+2023-04-24,Kjell Richter,Janssen Biologics Ireland,bioburden of columns,110767.0,123077.58976062722,2023-10-30,New Business,Closed Won,306922,2023,2023,189,4,10,True
+2023-11-21,Paula Kassouf,"Audentes Therapeutics, Inc",Method optimization study for in vivo potency assay to test KT430,108835.0,120930.86823329928,2024-01-08,Existing Business,Closed Won,330051,2023,2024,48,11,1,True
+2023-11-16,Paige Siegel,Creative Biostructure,MAT,103120.0,114580.70595137432,2024-03-05,New Business,Closed Lost,329654,2023,2024,110,11,3,False
+2023-11-17,Anne Martin,Altergon Italia SRL,MAT - Altergon,103120.0,114580.70595137432,2024-07-30,New Business,Closed Lost,329805,2023,2024,256,11,7,False
+2023-03-28,Amy Zemanek,"Elanco US, Inc.",Frazier Project PathHunter SOW,101835.0,113152.89168500972,2023-09-25,Existing Business,Closed Won,303902,2023,2023,181,3,9,True
+2023-09-25,Nicola Wright,Wickham Micro Ltd,MAT Testing,101200.0,112447.31809812918,2024-03-27,New Business,Closed Lost,323508,2023,2024,184,9,3,False
+2023-05-02,Laura Karkowski,Allergan Pharmaceuticals Ireland,sterility testing of implants,101000.0,112225.09019674949,2023-07-04,Existing Business,Closed Won,307828,2023,2023,63,5,7,True
+2023-03-30,Olaf Stamm,Ichor Biologics Private Limited,MAT testing,100755.0,111952.86101755932,2024-01-15,New Business,Closed Lost,304220,2023,2024,291,3,1,False
+2023-03-30,Olaf Stamm,Datwyler Pharma Pkgng India Pvt Ltd,MAT Testing,100755.0,111952.86101755932,2024-02-21,New Business,Closed Lost,304222,2023,2024,328,3,2,False
+2022-12-14,Francois Devesa,Ceva Sante Animale,2023 Yearly Quote - Routine Testing for 2023,100000.0,111113.95068985096,2023-03-31,Existing Business,Closed Won,291863,2022,2023,107,12,3,True
+2023-10-10,Livia Lu,ContraFect Corporation,2024 Yearly Quote - Routine Testing for 2024,100000.0,111113.95068985096,2023-12-06,Existing Business,Closed Lost,325114,2023,2023,57,10,12,False
+2023-10-10,Francois Devesa,Ceva Sante Animale,2024 Yearly Quote - Routine testing for 2024 - PMSG,100000.0,111113.95068985096,2024-01-29,Existing Business,Closed Won,325109,2023,2024,111,10,1,True
+2023-11-22,Francois Devesa,Galenicum Health,Generation of Master and Working cell banks (MCB and WCB) and Basic Testing (Part 1 of 3),98285.0,109208.34643552,2024-12-12,New Business,Negotiate,330199,2023,2024,386,11,12,False
+2023-08-17,Depika Battu,BWXT Medical Ltd,Disinfectant Study,97080.0,107869.42332970732,2023-10-24,New Business,Closed Lost,319463,2023,2023,68,8,10,False
+2023-04-19,Nicole McAlpine,Salvitus,COVID19 Hamster Study- Salvitus,96450.0,107169.40544036124,2023-07-25,New Business,Closed Won,306488,2023,2023,97,4,7,True
+2023-10-10,Laura Karkowski,Hollister ULC,2024 Yearly Quote - Routine Testing for 2024,95000.0,105558.2531553584,2024-01-08,Existing Business,Closed Won,325127,2023,2024,90,10,1,True
+2023-06-20,Nicole McAlpine,Access to Advanced Health Institute,MAT testing-AAHI,94875.0,105419.3607169961,2024-05-08,New Business,Closed Lost,313300,2023,2024,323,6,5,False
+2022-10-17,Nicola Wright,Reacta Biotech Limited,egg stability programme,94545.0,105052.6846797196,2023-08-08,Existing Business,Closed Won,285220,2022,2023,295,10,8,True
+2023-01-20,Nicola Wright,Reacta Biotech Limited,Milk Elisa stability,94545.0,105052.6846797196,2023-08-08,Existing Business,Closed Won,295246,2023,2023,200,1,8,True
+2023-09-07,Jun Long Tan,Beike Institute of Materia Medica,Vaccine Challenge Study,93980.0,104424.89085832192,2023-10-31,New Business,Closed Lost,321521,2023,2023,54,9,10,False
+2023-03-14,Amy Zemanek,"Elanco US, Inc.",cell based assay for insulin - Frazier Project - Bioidentity,92230.0,102480.39672124956,2023-06-26,New Business,Cancelled,302173,2023,2023,104,3,6,False
+2023-01-17,Christopher Herz,Celonic AG,"MAT Testing, 4 Samples. Week TBD",92020.0,102247.05742480083,2023-02-07,New Business,Cancelled,294714,2023,2023,21,1,2,False
+2022-08-30,Michael Spring,Nykode Therapeutics AS,challenge study in cotton rats,91460.0,101624.81930093768,2023-08-01,New Business,Closed Lost,279608,2022,2023,336,8,8,False
+2023-10-11,Livia Lu,"TG Therapeutics, Inc.",2024 Yearly Quote - Routine Testing for 2024,90000.0,100002.55562086588,2024-01-15,Existing Business,Closed Won,325336,2023,2024,96,10,1,True
+2023-02-05,Laura Karkowski,Lab4LIFE S.r.l.,MAT,89855.0,99841.44039236558,2023-05-04,New Business,Closed Lost,297407,2023,2023,88,2,5,False
+2023-09-19,Nicola Wright,The University of Sheffield,"Sterility, endo, transgene ID and expression, rcAAV",89678.0,99644.76869964454,2024-01-04,New Business,Closed Lost,322878,2023,2024,107,9,1,False
+2023-08-24,Matt Turner,Revelation Biosciences Inc,MAT Testing,89670.0,99635.87958358935,2024-03-15,New Business,Closed Lost,320240,2023,2024,204,8,3,False
+2023-07-28,Nicola Wright,MicroPharm Ltd,MAT validation - 2024 (price valid until 31 Dec 2023),89670.0,99635.87958358935,2024-01-04,New Business,Closed Lost,317492,2023,2024,160,7,1,False
+2023-02-23,Hope Apolinar,"Nova-Tech, Inc",Disinfection Efficacy Study,88520.0,98358.06915065608,2023-04-06,New Business,Closed Lost,299779,2023,2023,42,2,4,False
+2023-10-10,Laura Karkowski,"Medtronic, Inc.",2024 Yearly Quote - Routine Testing for 2024,88000.0,97780.27660706884,2024-01-02,Existing Business,Closed Won,325138,2023,2024,84,10,1,True
+2023-07-06,Francois Devesa,National Bioproducts Institute NPC,Request for Information - MAT testing,87975.0,97752.4981193964,2023-11-06,New Business,Closed Lost,314953,2023,2023,123,7,11,False
+2023-09-29,Amy Zemanek,Evolve Biologics Inc.,Measles cell based assays,87470.0,97191.37266841264,2024-08-12,New Business,Cancelled,324164,2023,2024,318,9,8,False
+2023-11-06,Laura Karkowski,Biovotec Ltd,MAT testing on medical device,87250.0,96946.92197689496,2024-01-30,New Business,Closed Lost,328321,2023,2024,85,11,1,False
+2023-07-18,Galiya Sakaeva,Formycon AG,"CGE assay: MD, MT plan for 2025",86630.0,96258.01548261788,2024-08-20,New Business,Closed Lost,316189,2023,2024,399,7,8,False
+2023-12-06,Hope Apolinar,Lentigen Technology Inc,Disinfectant Efficacy Study,86580.0,96202.45850727295,2024-11-26,New Business,Negotiate,331725,2023,2024,356,12,11,False
+2023-02-02,Haewon Ahn,Celltrion Incorporated,MAT,86485.0,96096.9002541176,2023-06-20,New Business,Closed Lost,297010,2023,2023,138,2,6,False
+2023-02-06,Monica Shin,Dong-A ST Co. Ltd.,Low Endotoxin Recovery(LER) testing,86200.0,95780.22549465152,2023-06-27,New Business,Closed Won,297413,2023,2023,141,2,6,True
+2023-03-21,Bjoern Kolbe,Cilian AG,ferret R&D vaccine study,85875.0,95419.10515490951,2023-09-25,New Business,Closed Lost,303032,2023,2023,188,3,9,False
+2023-05-15,Galiya Sakaeva,IDT Biologika GmbH,Release test in minks-MD/MQ/MV,83920.0,93246.82741892293,2023-08-30,New Business,Closed Lost,309302,2023,2023,107,5,8,False
+2023-08-31,Nicole Kovacs,Medimmune UK Limited,Ferret In vivo Immunization study,83690.0,92991.26533233628,2024-08-07,Existing Business,Closed Lost,320902,2023,2024,342,8,8,False
+2023-10-10,Nicola Wright,Curia Global Inc.,2024 Yearly Quote - Routine Testing for 2024,81000.0,90002.30005877928,2024-01-04,Existing Business,Closed Won,325115,2023,2024,86,10,1,True
+2023-01-03,Hope Apolinar,IDT Biologika Corporation,GMP Residual PEI Testing,79870.0,88746.71241598396,2023-05-24,New Business,Closed Lost,293208,2023,2023,141,1,5,False
+2023-11-28,Aisling Mullaney,Charles River Laboratories - Service Account,Bridging Study for Equivalency,77880.0,86535.54479725593,2024-08-21,Existing Business,Closed Lost,330643,2023,2024,267,11,8,False
+2023-11-22,Monica Shin,Dong-A ST Co. Ltd.,MCT (DMB-3115),77880.0,86535.54479725593,2024-04-18,Existing Business,Closed Won,330186,2023,2024,148,11,4,True
+2023-12-13,Kjell Richter,Takeda Pharmaceuticals Intl. AG IE,Validation of CE-SDS Method for Replagal using Maurice,77760.0,86402.2080564281,2023-12-27,Existing Business,Closed Won,332416,2023,2023,14,12,12,True
+2023-12-04,Amy Zemanek,Ayass BioScience LLC,inhaled COVID vaccine testing,77660.0,86291.09410573826,2024-04-08,New Business,Closed Lost,331368,2023,2024,126,12,4,False
+2023-07-20,Christopher Herz,University of Zurich,MAT on Collagen + 3 cell types,76820.0,85357.7369199435,2024-08-31,New Business,Closed Lost,316539,2023,2024,408,7,8,False
+2023-04-19,Paula Kassouf,Revance Therapeutics Incorporated,WCB Production,76760.0,85291.0685495296,2023-08-03,New Business,Cancelled,306593,2023,2023,106,4,8,False
+2023-02-13,Haewon Ahn,Daewoong Pharmaceutical Co Ltd,Routine Cell Based Assay,76050.0,84502.15949963166,2023-05-22,Existing Business,Closed Won,298360,2023,2023,98,2,5,True
+2022-10-12,Olaf Stamm,Biocon Biologics UK Limited,2023 Yearly Quote - Routine Testing for Peg for 2023,75920.0,84357.71136373485,2023-02-20,Existing Business,Closed Won,284673,2022,2023,131,10,2,True
+2022-10-12,Olaf Stamm,Biocon Biologics UK Limited,2023 Yearly Quote - Routine testing for Traz for 2023,75920.0,84357.71136373485,2023-03-03,Existing Business,Closed Won,284674,2022,2023,142,10,3,True
+2023-02-13,Brennan Ramos,"Glycologix, Inc.",MAT Medical Device Testing,75845.0,84274.37590071747,2023-04-11,New Business,Closed Lost,298410,2023,2023,57,2,4,False
+2023-09-12,Nicole Kovacs,Medimmune UK Limited,ALV Assay,75360.0,83735.47323987169,2023-10-11,Existing Business,Closed Won,322073,2023,2023,29,9,10,True
+2023-08-09,Kjell Richter,AGC Biologics AS,"72302 stage 391 – GMP2 DP Stability Study of HCF-PLX188 (Item # 9-0129, Batch # CMC-T-0068)",75255.0,83618.80359164735,2023-08-09,Existing Business,Closed Won,318611,2023,2023,0,8,8,True
+2023-10-31,Francois Devesa,Flash Therapeutics SAS,CCIT and rapid sterility on a lentiviral vector product,72930.0,81035.40423810831,2024-01-31,New Business,Closed Lost,327682,2023,2024,92,10,1,False
+2023-09-05,Laura Karkowski,Eli Lilly Kinsale Limited,Microbial Challenge Study,72045.0,80052.04577450313,2023-09-26,Existing Business,Closed Won,321213,2023,2023,21,9,9,True
+2023-10-10,Laura Karkowski,Merck Serono S.p.A., 2024 Yearly Quote - Routine testing for 2024,71000.0,78890.90498979419,2024-01-02,Existing Business,Closed Won,325148,2023,2024,84,10,1,True
+2023-04-12,Haewon Ahn,Daewoong Pharmaceutical Co Ltd,Method transfer - comparability study,69255.0,76951.96655025629,2023-05-22,Existing Business,Closed Won,305657,2023,2023,40,4,5,True
+2023-11-06,Nicole Kovacs,Medimmune UK Limited,Ferret Immunization for LAIV RD strains,68675.0,76307.50563625515,2024-06-12,Existing Business,Closed Lost,328276,2023,2024,219,11,6,False
+2022-10-14,Laura Karkowski,Merck Serono SpA,pyrogen spiking study,68300.0,75890.82832116821,2023-07-05,Existing Business,Closed Won,285091,2022,2023,264,10,7,True
+2023-06-22,Amy Zemanek,"TriRx Shawnee, LLC",Method Establishment and Validation of LTA ELISA,67600.0,75113.03066633925,2024-04-09,Existing Business,Closed Won,313530,2023,2024,292,6,4,True
+2023-10-10,Matt Turner,"Evolus, Inc.",2024 Yearly Quote - Routine Testing for 2024,67000.0,74446.34696220014,2024-01-02,Existing Business,Closed Won,325118,2023,2024,84,10,1,True
+2023-10-03,Nicole Kovacs,AstraZeneca,Microbial Challenge Study,66635.0,74040.78104218219,2023-10-20,Existing Business,Closed Won,324358,2023,2023,17,10,10,True
+2023-07-04,Galiya Sakaeva,Merz Group Services GmbH,Qualification of Reference Standard,66480.0,73868.55441861293,2023-07-20,Existing Business,Closed Won,314769,2023,2023,16,7,7,True
+2023-11-23,Christopher Herz,Corza Medical Distribution GmbH,2024 Yearly Quote - Routine Testing for 2024,66000.0,73335.20745530163,2024-01-02,Existing Business,Closed Won,330339,2023,2024,40,11,1,True
+2023-02-07,Angele Ngaha,University of Exeter,"Sterility, Bioburden, Mycoplasma and PH testing",65512.0,72792.97137593516,2023-05-17,New Business,Closed Lost,297645,2023,2023,99,2,5,False
+2023-10-11,Francois Devesa,Texcell S.A.,2024 Yearly Quote - Routine Testing for 2024,65000.0,72224.06794840313,2024-03-20,Existing Business,Closed Won,325334,2023,2024,161,10,3,True
+2023-02-16,Michael Spring,Rechon Life Science AB,Impurity testing via SDS-PAGE,63230.0,70257.35102119276,2023-05-22,New Business,Closed Won,298911,2023,2023,95,2,5,True
+2023-09-13,Amy Zemanek,Sunshine Biopharma Inc.,COVID hamster model,61455.0,68285.0783964479,2023-10-31,New Business,Closed Lost,322290,2023,2023,48,9,10,False
+2023-07-06,Laura Karkowski,Alexion Pharma Intl Operations UC,"TnBP analysis MD/MQ, RFP",61245.0,68051.73909999922,2023-11-05,New Business,Closed Lost,314966,2023,2023,122,7,11,False
+2023-09-04,Nicole Kovacs,Medimmune UK Limited,Ferret Immunogenicity Study 3 - QLAIV2 HD,60970.0,67746.17573560213,2024-08-28,Existing Business,Closed Lost,321154,2023,2024,359,9,8,False
+2023-09-04,Nicole Kovacs,Medimmune UK Limited,Ferret Immunogenicity Study - Study 2 - QLAIV1 HD,60970.0,67746.17573560213,2024-08-28,Existing Business,Closed Lost,321152,2023,2024,359,9,8,False
+2023-02-23,Laura Karkowski,Menarini Richerche spa,BH testing,60881.0,67647.28431948817,2023-07-05,Existing Business,Closed Lost,299775,2023,2023,132,2,7,False
+2023-03-13,Aaron Reed,"Beacon Therapeutics (USA), Inc",Residual Tween 20 Validation,60055.0,66729.48308679,2023-06-22,New Business,Cancelled,302003,2023,2023,101,3,6,False
+2023-04-03,Laura Karkowski,Pfizer Ireland Pharma (GC52),qualification of new source of platelets for ELISA,59830.0,66479.47669773783,2023-05-04,Existing Business,Closed Won,304682,2023,2023,31,4,5,True
+2023-09-21,Nicole Kovacs,AstraZeneca Pharmaceuticals LP,Cell qualification study AZ,59825.0,66473.92100020334,2023-12-01,Existing Business,Closed Won,323207,2023,2023,71,9,12,True
+2023-01-25,Nicola Wright,Janssen Vaccines & Prevention B.V,Study to generate Anti-sera in Rabbits with adenovirus vector,57760.0,64179.41791845792,2023-05-05,Existing Business,Closed Lost,295828,2023,2023,100,1,5,False
+2023-08-08,Kjell Richter,AGC Biologics AS,SVP - 72302 stage 392 – GMP Placebo Stability Study of HCF-PLX188,56319.0,62578.265889017166,2023-08-09,Existing Business,Closed Won,318499,2023,2023,1,8,8,True
+2022-12-01,Laura Karkowski,Horizon Therapeutics Ireland DAC,stability testing of frozen DS,56009.0,62233.81264187863,2023-02-20,Existing Business,Closed Won,290491,2022,2023,81,12,2,True
+2023-07-27,Nicola Wright,Genzyme Geel,Coupon Study (Sanofi Genzyme in Geel),55340.0,61490.46031176352,2024-01-04,New Business,Closed Lost,317310,2023,2024,161,7,1,False
+2023-10-10,Xenia Cabagnols,Byondis B.V,2024 Yearly Quote - Routine Testing for 2024,55000.0,61112.67287941803,2024-05-23,Existing Business,Closed Won,325107,2023,2024,226,10,5,True
+2023-03-13,Amy Zemanek,FujiFilm Diosynth Biotech Texas LLC,LER Endotoxin Study,54320.0,60357.098014727046,2023-06-06,New Business,Closed Won,301961,2023,2023,85,3,6,True
+2023-10-10,Laura Karkowski,Merck Sharp & Dohme (Ireland)Ltd,2024 Yearly Quote - Routine Testing for 2024,54000.0,60001.53337251952,2024-01-02,Existing Business,Closed Won,325155,2023,2024,84,10,1,True
+2023-04-05,Brennan Ramos,Supernus Pharmaceuticals Inc,LD50 Testing to Study Plan and report,53625.0,59584.85605743258,2023-04-12,Existing Business,Closed Won,304960,2023,2023,7,4,4,True
+2023-09-22,Jun Long Tan,iX Biopharma Limited,In Vivo Ferret Studies,52620.0,58468.16085299958,2024-03-18,New Business,Closed Lost,323342,2023,2024,178,9,3,False
+2023-01-17,Kjell Richter,Takeda Pharmaceuticals Intl. AG IE,P20 Qualifications,52000.0,57779.2543587225,2023-01-19,Existing Business,Closed Won,294656,2023,2023,2,1,1,True
+2023-10-02,Hope Apolinar,"Krystal Biotech, Inc.",Method Transfer Western Blot,51720.0,57468.13529679092,2024-03-06,New Business,Closed Won,324250,2023,2024,156,10,3,True
+2023-11-14,Paula Kassouf,"Amunix Pharmaceuticals, Inc.",Microbial Challenge Study #2,51055.0,56729.22752470341,2023-11-30,New Business,Closed Won,329365,2023,2023,16,11,11,True
+2023-03-06,Brennan Ramos,"Inovio Pharmaceuticals, Inc.",R&D mouse Immunogenicity study (in vivo only),51005.0,56673.67054935848,2023-07-21,New Business,Closed Lost,300991,2023,2023,137,3,7,False
+2023-03-16,Galiya Sakaeva,IDT Biologika GmbH,animal testing: Immunogenicity Study in Guinea Pigs,50120.0,55690.3120857533,2023-06-16,Existing Business,Closed Lost,302579,2023,2023,92,3,6,False
+2023-02-15,Galiya Sakaeva,Ceva Tiergesundheit (Reims) GmbH,2023 Yearly Quote - Routine FSH testing for 2023,50000.0,55556.97534492548,2023-04-25,Existing Business,Closed Won,298763,2023,2023,69,2,4,True
+2023-03-01,Galiya Sakaeva,CEVA Innovation Center GmbH,2023 Yearly Quote - Routine FSH testing for 2023,50000.0,55556.97534492548,2023-04-25,Existing Business,Closed Won,300510,2023,2023,55,3,4,True
+2023-10-09,Michael Spring,Biovian Oy,2024 Yearly Quote - Routine Testing for 2024,50000.0,55556.97534492548,2024-01-25,Existing Business,Closed Won,324968,2023,2024,108,10,1,True
+2023-10-11,Amy Zemanek,Sanofi Pasteur Limited,2024 Yearly Quote - Routine Testing for 2024,50000.0,55556.97534492548,2024-01-11,Existing Business,Closed Won,325325,2023,2024,92,10,1,True
+2023-10-11,Tamara Brotherton,ThermoFisher Scientific Inc.,2024 Yearly Quote - Routine Testing for 2024,50000.0,55556.97534492548,2024-02-14,Existing Business,Closed Won,325352,2023,2024,126,10,2,True
+2023-11-22,Olaf Stamm,Biocon Biologics Canada Inc,Testing for release in Canadian Market - Tras and Peg only,50000.0,55556.97534492548,2024-03-20,Existing Business,Closed Won,330240,2023,2024,119,11,3,True
+2023-07-14,Amy Zemanek,Biosentinel Pharmaceuticals,500 vial WCB,49820.0,55356.97023368375,2023-08-28,New Business,Closed Won,315912,2023,2023,45,7,8,True
+2023-05-03,Galiya Sakaeva,MSD Animal Health Innovation GmbH,storage of archive material for further 5 years,49560.0,55068.073961890135,2023-06-23,Existing Business,Closed Won,307967,2023,2023,51,5,6,True
+2023-10-09,Laura Karkowski,WuXi Biologics Ireland Limited,Raw Material Testing - Glucose Monohdrate and 10N NaOH,49223.0,54693.61994806534,2023-10-11,Existing Business,Closed Won,325018,2023,2023,2,10,10,True
+2023-05-30,Christopher Herz,Steriscience Sp. z o.o.,SARS-CoV2 S1 RBD 2ELISA KIT,49210.0,54679.175134475656,2023-08-29,New Business,Closed Lost,310846,2023,2023,91,5,8,False
+2023-03-20,Nicole McAlpine,University of British Columbia,mmunisation Study in  Rabbits,49145.0,54606.95106652725,2023-07-18,New Business,Closed Lost,302880,2023,2023,120,3,7,False
+2023-10-11,Francois Devesa,Rousselot BVBA,2024 Yearly Quote - Routine Testing for 2024,49000.0,54445.83583802697,2024-02-20,Existing Business,Closed Won,325315,2023,2024,132,10,2,True
+2023-10-11,Laura Karkowski,"Stryker Ireland, Ltd",2024 yearly Quote -Routine Testing for 2024,49000.0,54445.83583802697,2024-01-10,Existing Business,Closed Won,325328,2023,2024,91,10,1,True
+2023-10-11,Laura Karkowski,Stryker Orthopaedics,2024 Yearly Quote - Routine Testing for 2024,49000.0,54445.83583802697,2024-01-08,Existing Business,Closed Won,325329,2023,2024,89,10,1,True
+2023-10-11,Laura Karkowski,"Stryker Ireland, Ltd",2024 Yearly Quote - Routine Testing for 2024,49000.0,54445.83583802697,2024-02-21,Existing Business,Closed Won,325330,2023,2024,133,10,2,True
+2023-05-30,Aisling Mullaney,Charles River,Disinfectant Testing,48995.0,54440.28014049248,2023-07-25,Existing Business,Closed Won,310857,2023,2023,56,5,7,True
+2023-02-09,Paula Kassouf,"Amunix Pharmaceuticals, Inc.",Microbial Challenge Study,48610.0,54012.49143033655,2023-02-28,New Business,Closed Won,298121,2023,2023,19,2,2,True
+2023-03-15,Nicola Wright,United Kingdom Health Security,Supply of 40 Ferrets,40920.0,53566.72998152916,2023-04-24,New Business,Closed Won,302367,2023,2023,40,3,4,True
+2023-10-03,Galiya Sakaeva,GlaxoSmithKline Biologicals,Ferret Antisera study,47690.0,52990.24308398992,2023-10-04,Existing Business,Closed Won,324397,2023,2023,1,10,10,True
+2023-02-27,Laura Karkowski,3P Biopharmaceutical SL, CHO WCB testing E22008,46395.0,51551.31742255636,2023-09-06,Existing Business,Closed Won,300268,2023,2023,191,2,9,True
+2023-05-09,Nicola Wright,Medimmune UK Limited,"Sterility, MLT and Mycoplasma",46320.0,51467.98195953896,2023-10-05,Existing Business,Closed Lost,308630,2023,2023,149,5,10,False
+2023-01-26,Laura Karkowski,Istituto Di Recherche A.Marxer,in vivo biosafety testing (Scientist),46005.0,51117.97301486594,2023-01-30,New Business,Cancelled,296234,2023,2023,4,1,1,False
+2023-03-09,Bjoern Kolbe,Wuxi Biologics Germany GmbH,Routine testing for WBP2151 DP,46000.0,51112.41731733144,2023-05-02,Existing Business,Closed Won,301562,2023,2023,54,3,5,True
+2023-04-06,Aisling Mullaney,Microbial Solutions Charles River,Rapid Sterility -Equivalency Study  for GSK Pharma - product Depemokimab,45465.0,50517.95768114074,2023-05-03,Existing Business,Closed Won,305145,2023,2023,27,4,5,True
+2023-04-06,Aisling Mullaney,CR Microbial Sol Int Ltd Sales Reps,Rapid Sterility - Equivalency Study for GSK Vaccines Influenza Vaccine,45465.0,50517.95768114074,2023-04-07,Existing Business,Closed Won,305143,2023,2023,1,4,4,True
+2022-10-27,Bjoern Kolbe,BioNTech Innovative,stability and sterility testing,45310.0,50345.73105757147,2023-10-09,New Business,Closed Lost,286592,2022,2023,347,10,10,False
+2023-02-20,Laura Karkowski,WuXi Vaccines Ireland Limited,water testing,45153.0,50171.2821549884,2023-02-21,Existing Business,Closed Won,299297,2023,2023,1,2,2,True
+2023-10-10,Laura Karkowski,Helsinn Birex Therapeutics Limited,2024 Yearly Quote - Routine Testing for 2024,45000.0,50001.27781043293,2024-01-30,Existing Business,Closed Won,325125,2023,2024,112,10,1,True
+2023-05-30,Kjell Richter,Ferring Pharmaceuticals A/S,Hormone testing with lighter rats,44830.0,49812.38409426019,2023-06-09,Existing Business,Closed Won,310843,2023,2023,10,5,6,True
+2023-08-03,Francois Devesa,MiGen Tra-Egypt,"BH testing (CHO, Adalimumab) - Duplicate of OPP-318767",43740.0,48601.24203174081,2023-08-10,New Business,Cancelled,318065,2023,2023,7,8,8,False
+2023-05-30,Bjoern Kolbe,Wuxi Biologics Germany GmbH,Stability of WBP2151 PPQ,43548.0,48387.903246416296,2023-07-19,Existing Business,Closed Won,310897,2023,2023,50,5,7,True
+2023-10-10,Laura Karkowski,Phillips-Medisize Ireland,2024 Yearly Quote - Routine Testing for 2024,43000.0,47778.99879663591,2024-01-02,Existing Business,Closed Won,325136,2023,2024,84,10,1,True
+2023-10-10,Nicola Wright,Millicent Pharma (NI) Limited,2024 Yearly Quote - Routine Testing for 2024,43000.0,47778.99879663591,2024-01-02,Existing Business,Closed Won,325153,2023,2024,84,10,1,True
+2023-08-24,Kjell Richter,Takeda Pharmaceuticals Intl. AG IE,Elaprase Specific activity competency testing - Ion chromatograph on Metron,42860.0,47623.43926567013,2023-08-28,Existing Business,Closed Won,320149,2023,2023,4,8,8,True
+2023-11-28,Kjell Richter,Ferring Pharmaceuticals A/S,Dose Finding Study - Hormone,42350.0,47056.75811715188,2023-12-11,Existing Business,Closed Won,330653,2023,2023,13,11,12,True
+2023-04-04,Francois Devesa,GTP Biologics,ID testing by icIEF (project code Jorasse) of a mAb (end user HifiBio),41730.0,46367.851622874805,2023-11-02,New Business,Closed Won,304875,2023,2023,212,4,11,True
+2023-09-06,Nicole McAlpine,Curevo Vaccine,Potency and Qualification in  vivo and ELISA studies,40924.0,45472.27318031461,2023-10-10,Existing Business,Closed Won,321422,2023,2023,34,9,10,True
+2023-04-04,Francois Devesa,GTP Biologics,icIEF as ID test: method transfer and validation for release and stability testing of an ADC,40035.0,44484.47015868184,2023-05-10,New Business,Closed Lost,304877,2023,2023,36,4,5,False
+2023-07-31,Kjell Richter,AGC Biologics AS,"SVP  Stability study for Batch CMC-T-0063, 0064 & 0065)",39741.0,44157.79514365367,2023-08-02,Existing Business,Closed Won,317607,2023,2023,2,7,8,True
+2023-06-23,Nicola Wright,University of Oxford,MAT comparability study,39390.0,43767.78517673229,2024-05-08,New Business,Closed Won,313745,2023,2024,320,6,5,True
+2023-02-14,Livia Lu,"TG Therapeutics, Inc.", res PS80 method transfer TG TX,38325.0,42584.42160188538,2023-06-26,Existing Business,Closed Won,298609,2023,2023,132,2,6,True
+2023-09-08,Laura Karkowski,mAbxience Research S.L.,CCIT and DP physico-chemical properties,38120.0,42356.63800297119,2024-01-05,New Business,Closed Lost,321804,2023,2024,119,9,1,False
+2023-01-10,Olaf Stamm,Intas Pharmaceuticals Limited,Intas CHO Bulk harvest testing,37440.0,41601.0631382802,2024-01-02,New Business,Cancelled,293892,2023,2024,357,1,1,False
+2023-12-07,Nicola Wright,"Evolus, Inc.",Training on Daewoong CBPA method,37060.0,41178.830125658766,2023-12-27,Existing Business,Closed Won,331817,2023,2023,20,12,12,True
+2023-10-09,Aaron Reed,"Airway Therapeutics, Inc.",2024 Yearly Quote - Routine Testing for 2024,37000.0,41112.16175524486,2024-01-02,Existing Business,Closed Won,324956,2023,2024,85,10,1,True
+2023-03-07,Francois Devesa,uniQure France SAS,P188 Qualification and routine testing,36835.0,40928.8237366066,2023-04-05,Existing Business,Closed Won,301260,2023,2023,29,3,4,True
+2023-04-21,Barbara Moran,GTP Biologics,Bulk Harvest testing Project 140,36795.0,40884.37815633066,2023-05-12,Existing Business,Cancelled,306808,2023,2023,21,4,5,False
+2023-05-09,Laura Karkowski,Takeda Pharmaceuticals Intl. AG IE,BSA qualification using Protein Concentration method for VRPIV and Elaprase,36660.0,40734.37432289936,2023-05-18,Existing Business,Closed Won,308651,2023,2023,9,5,5,True
+2023-07-26,Kjell Richter,Takeda Pharmaceuticals Intl. AG IE,Column Screening for Elaprase Peptide Map,36650.0,40723.26292783038,2023-08-28,Existing Business,Closed Won,317139,2023,2023,33,7,8,True
+2023-07-14,Kjell Richter,AGC Biologics AS,SVP Stability for Batch CMC-T-0015,36571.0,40635.48290678539,2023-07-25,Existing Business,Closed Won,315875,2023,2023,11,7,7,True
+2023-11-01,Kjell Richter,AGC Biologics AS,"Sub Visible Testing - 72302stage 252, CMC-R-0102",36486.0,40541.03604869903,2023-11-09,Existing Business,Closed Won,327847,2023,2023,8,11,11,True
+2023-05-15,Kjell Richter,AGC Biologics AS,"SVP Stability study - 72302 stage 289  (Item # 9-0117, Batch# CMC-T-0037)",36427.0,40475.47881779201,2023-05-23,Existing Business,Closed Won,309273,2023,2023,8,5,5,True
+2023-01-04,Amy Zemanek,Biosentinel Pharmaceuticals,GMP Master Cell Bank - Sapientcell,36115.0,40128.80329163968,2023-01-23,Existing Business,Closed Won,293277,2023,2023,19,1,1,True
+2023-10-10,Laura Karkowski,HiTech Health,2024 Yearly Quote - Routine Testing for 2024,36000.0,40001.02224834634,2024-07-29,Existing Business,Closed Lost,325126,2023,2024,293,10,7,False
+2023-05-11,Livia Lu,"TG Therapeutics, Inc.","Routine Testing for DP, DS and Stability samples",35735.0,39706.57027901824,2023-08-21,Existing Business,Closed Won,309026,2023,2023,102,5,8,True
+2023-10-30,Nicola Wright,SGS Vitrology Limited,MAP/HAP/RAP and S+L-,35475.0,39417.67400722463,2024-01-23,New Business,Closed Lost,327500,2023,2024,85,10,1,False
+2023-03-14,Angele Ngaha,Laverock Therapeutics Limited,Sterility and Mycoplasma testing on iPSCs,35425.0,39362.1170318797,2023-05-17,New Business,Closed Lost,302256,2023,2023,64,3,5,False
+2023-04-24,Kjell Richter,Janssen Biologics Ireland,shotgun comparison of 4 batches,35410.0,39345.44993927622,2023-08-14,New Business,Closed Won,306925,2023,2023,112,4,8,True
+2022-11-22,Nicola Wright,Reacta Biotech Limited,Peanut challenge study - long term stability,35332.0,39258.78105773814,2023-02-27,New Business,Closed Won,289631,2022,2023,97,11,2,True
+2023-10-10,Paula Kassouf,"Akero Therapeutics, Inc.",Routine GMP & non-GMP testing for DS product,35220.0,39134.33343296551,2023-10-26,Existing Business,Closed Won,325160,2023,2023,16,10,10,True
+2023-10-09,Laura Karkowski,Almac Sciences (Ireland) Ltd,2024 Yearly Quote - Routine Testing for 2024,35000.0,38889.88274144784,2024-01-02,Existing Business,Closed Won,324958,2023,2024,85,10,1,True
+2023-02-02,Jun Long Tan,MSD International GmbH,Sterility testing,35000.0,38889.88274144784,2023-02-07,Existing Business,Closed Won,297047,2023,2023,5,2,2,True
+2023-02-22,Nicola Wright,UCB Biopharma UK,Sterility & in vitro AVA assay on MDCK cell lines,34405.0,38228.75473484323,2023-06-06,Existing Business,Closed Lost,299604,2023,2023,104,2,6,False
+2023-03-14,Haewon Ahn,Celltrion Incorporated,RPT with new design,34310.0,38123.19648168787,2023-04-04,Existing Business,Closed Won,302122,2023,2023,21,3,4,True
+2023-11-02,Haewon Ahn,Daewoong Pharmaceutical Co Ltd,2024 Yearly Quote - Storage,34000.0,37778.74323454933,2024-01-22,Existing Business,Closed Won,327973,2023,2024,81,11,1,True
+2023-10-04,Laura Karkowski,Takeda Pharmaceuticals Intl. AG IE,Feasibility study of HPLC-CAD method to be used to detect  and quantify P20 in VPRIV or Replagal product,33460.0,37178.72790082413,2023-10-09,Existing Business,Closed Won,324598,2023,2023,5,10,10,True
+2023-02-23,Nicola Wright,aVaxziPen Limited,Environmental monitoring - Ball park quote,33077.0,36753.161469682,2024-05-13,New Business,Closed Lost,299789,2023,2024,445,2,5,False
+2023-05-03,Angele Ngaha,Stilla Technologies,MAP HAP RAP Testing,32030.0,35589.79840595926,2023-06-15,New Business,Closed Lost,307996,2023,2023,43,5,6,False
+2023-01-12,Haewon Ahn,Odysseus Bio,characterization for Salmonella Gallinarum.,32025.0,35584.24270842477,2023-12-26,New Business,Closed Lost,294185,2023,2023,348,1,12,False
+2023-10-10,Paula Kassouf,Medtronic CardioVascular,2024 Yearly Quote - Routine Testing for 2024,32000.0,35556.46422075231,2024-02-21,Existing Business,Closed Won,325139,2023,2024,134,10,2,True
+2023-05-25,Nicola Wright,Quell Therapeutics Limited,Rapid Sterility and Mycoplasma testing on Treg + EM,31947.0,35497.573826886684,2023-10-04,Existing Business,Closed Lost,310629,2023,2023,132,5,10,False
+2023-10-11,Nicola Wright,Autolus Ltd.,Mycoplasma and DNA extraction,31760.0,35289.790739096665,2023-10-12,Existing Business,Closed Won,325312,2023,2023,1,10,10,True
+2023-06-05,Michael Spring,Nanoform Finland Oyj,"MV sterility testing, bioburden and endotoxin testing",31665.0,35184.232485941306,2023-07-11,New Business,Closed Lost,311525,2023,2023,36,6,7,False
+2023-03-27,Laura Karkowski,WuXi Biologics Ireland Limited,MLT and LAL testing (trial work and routine testing),31340.0,34823.112146199295,2023-03-28,Existing Business,Closed Won,303702,2023,2023,1,3,3,True
+2023-12-06,Nicola Wright,Reacta Biotech Limited,Stability Programme for Egg Albumin for EAP,31135.0,34595.3285472851,2024-02-15,Existing Business,Closed Won,331631,2023,2024,71,12,2,True
+2023-12-06,Nicola Wright,Reacta Biotech Limited,Stability Programme for Milk Allergens for SMP,31135.0,34595.3285472851,2023-12-12,Existing Business,Closed Won,331630,2023,2023,6,12,12,True
+2023-03-08,Paula Kassouf,"Dren Bio, Inc.",Microbial Challenge Study,30755.0,34173.09553466366,2023-04-03,Existing Business,Closed Won,301449,2023,2023,26,3,4,True
+2023-10-10,Paula Kassouf,"Akero Therapeutics, Inc.",Release Testing GMP and non-GMP - DP,30180.0,33534.19031819702,2023-10-26,Existing Business,Closed Won,325161,2023,2023,16,10,10,True
+2023-04-14,Livia Lu,PTC Therapeutics GT,DLS Method Transfer - PTCNJ - OPP-306026,30105.0,33450.854855179634,2023-07-31,Existing Business,Closed Lost,306026,2023,2023,108,4,7,False
+2023-10-10,Galiya Sakaeva,Ceva Tiergesundheit (Reims) GmbH,2024 Yearly Quote - Routine Testing for 2024,30000.0,33334.18520695529,2024-01-22,Existing Business,Closed Won,325110,2023,2024,104,10,1,True
+2023-10-11,Laura Karkowski,Genzyme Ireland Ltd.,2024 Yearly Quote - Routine Testing for 2024,30000.0,33334.18520695529,2024-01-02,Existing Business,Closed Won,325324,2023,2024,83,10,1,True
+2023-10-11,Galiya Sakaeva,CEVA Innovation Center GmbH,2024 Yearly Quote - Routine Testing for 2024 -CIC,30000.0,33334.18520695529,2024-03-19,Existing Business,Closed Won,325374,2023,2024,160,10,3,True
+2023-09-05,Francois Devesa,Labiana Life Science Sa,R&D analysis of an immunomodulator,30000.0,33334.18520695529,2024-01-11,New Business,Closed Lost,321230,2023,2024,128,9,1,False
+2023-03-21,Sarah Boocock,Takara Bio Europe Swedish Filial,GMP-QC testing of cell culture media,29585.0,32873.06231159241,2024-10-11,New Business,Closed Lost,303062,2023,2024,570,3,10,False
+2023-12-12,Nicola Wright,Autolus Ltd.,Mycoplasma - Indicator Cells Method  with DNA extraction,29495.0,32773.05975597154,2024-01-10,Existing Business,Closed Won,332252,2023,2024,29,12,1,True
+2023-10-10,Christopher Herz,Jafral D.o.o,2024 Yearly Quote - Routine testing for 2024,29000.0,32223.04570005678,2024-01-02,Existing Business,Closed Won,325130,2023,2024,84,10,1,True
+2023-05-24,Nicola Wright,Instil Bio UK Limited,Sterility and Barcoding,28680.0,31867.481057849254,2023-10-24,New Business,Closed Lost,310367,2023,2023,153,5,10,False
+2023-04-26,Haewon Ahn,Samsung Bioepis Co Ltd,SB17 MCT(related to OPP-280022),28360.0,31511.91641564173,2023-07-12,Existing Business,Closed Won,307233,2023,2023,77,4,7,True
+2023-01-06,Jun Long Tan,PT Etana Biotechnologies Indonesia,Immunogenicity test,28270.0,31411.913860020868,2023-10-25,New Business,Closed Lost,293567,2023,2023,292,1,10,False
+2023-09-28,Aisling Mullaney,"Charles River Laboratories, Inc.",Disinfectant Study,28250.0,31389.691069882894,2024-02-08,Existing Business,Closed Lost,323952,2023,2024,133,9,2,False
+2023-03-28,Nicole McAlpine,Curevo Vaccine,R&D Feasibility study - new study,27805.0,30895.23398931306,2023-04-11,Existing Business,Closed Won,303873,2023,2023,14,3,4,True
+2023-10-12,Laura Karkowski,Horizon Therapeutics Ireland DAC,Horizon analysts training assays,27800.0,30889.678291778568,2023-12-11,Existing Business,Closed Won,325581,2023,2023,60,10,12,True
+2023-06-13,Nicole McAlpine,Curevo Vaccine,In Vivo Immunogenicity Study,27365.0,30406.33260627772,2023-07-20,Existing Business,Closed Won,312559,2023,2023,37,6,7,True
+2023-10-10,Galiya Sakaeva,Celonic AG,2024 Yearly Quote - Routine Testing for 2024,27000.0,30000.76668625976,2024-01-10,Existing Business,Closed Won,325108,2023,2024,92,10,1,True
+2022-12-05,Michael Spring,Procella Therapeutics AB,sterility_endotoxin testing,26970.0,29967.432501052805,2023-08-21,New Business,Closed Won,290733,2022,2023,259,12,8,True
+2023-04-19,Aaron Reed,Incyte Corporation,Microbial Challenge Test - Axatilimab,26740.0,29711.870414466142,2023-07-24,New Business,Closed Won,306564,2023,2023,96,4,7,True
+2023-04-13,Nicola Wright,AstriVax NV,"Hamster ear pin immunisation, 30 animals, 4 bleeds",26670.0,29634.09064898325,2023-08-16,New Business,Closed Lost,305815,2023,2023,125,4,8,False
+2023-10-05,Nicola Wright,Rousselot BVBA,"NMR Method Development, Validation and Routine Testing",26640.0,29600.75646377629,2024-01-04,Existing Business,Closed Lost,324705,2023,2024,91,10,1,False
+2023-01-20,Nicole Kovacs,Medimmune UK Limited,Antisera Qualification,26495.0,29439.641235276013,2023-03-20,Existing Business,Closed Won,295231,2023,2023,59,1,3,True
+2023-09-20,Laura Karkowski,Baxter Healthcare SA,MAT Testing,25395.0,28217.38777768765,2023-10-24,Existing Business,Closed Won,323030,2023,2023,34,9,10,True
+2023-09-01,Laura Karkowski,3P Biopharmaceutical SL,"BH testing, project E22008_prot 118",25360.0,28178.49789494621,2023-10-24,Existing Business,Closed Won,321029,2023,2023,53,9,10,True
+2023-03-09,Brennan Ramos,"Scholar Rock, Inc.",Microbial Challenge study,25045.0,27828.48895027317,2023-03-15,Existing Business,Closed Won,301579,2023,2023,6,3,3,True
+2023-04-24,Chad Dubbelde,"Evolus, Inc.",Storage of client samples,25000.0,27778.48767246274,2023-05-16,Existing Business,Closed Won,306943,2023,2023,22,4,5,True
+2023-10-03,Aaron Reed,Incyte Corporation,Microbial Challenge Study,24940.0,27711.81930204883,2024-03-26,Existing Business,Closed Lost,324357,2023,2024,175,10,3,False
+2023-09-19,Nicole McAlpine,Curevo Vaccine,R&D Testing,24375.0,27084.025480651173,2023-10-10,New Business,Closed Won,322880,2023,2023,21,9,10,True
+2023-08-14,Laura Karkowski,Merck Serono SpA,RPT spiking study and 3 batches for routine testing,24265.0,26961.80013489233,2024-02-21,Existing Business,Closed Won,319024,2023,2024,191,8,2,True
+2023-06-12,Barbara Moran,Roslin Cell Therapies Limited,Sterility Verification of 2 Products,24195.0,26884.02036940944,2023-07-11,Existing Business,Closed Won,312302,2023,2023,29,6,7,True
+2023-09-05,Laura Karkowski,Allergan Pharmaceuticals Ireland,Sterility B&F and routine testing of Medical  Device,24160.0,26845.130486667997,2023-09-25,Existing Business,Closed Won,321235,2023,2023,20,9,9,True
+2023-03-06,Matt Turner,Object Pharma Inc.,Mouse DAS study,24060.0,26734.016535978142,2024-02-23,Existing Business,Closed Lost,300996,2023,2024,354,3,2,False
+2023-10-11,Laura Karkowski,SAFC Arklow Limited,2024 Yearly Quote- Routine testing for 2024,24000.0,26667.34816556423,2024-01-09,Existing Business,Closed Won,325319,2023,2024,90,10,1,True
+2023-10-11,Nicola Wright,SGS Vitrology Limited,2024 Yearly Quote - Routine testing for 2024,24000.0,26667.34816556423,2024-01-11,Existing Business,Closed Won,325327,2023,2024,92,10,1,True
+2023-06-05,Christopher Herz,Wyss Zurich,Stability study,23874.0,26527.344587695017,2024-01-31,New Business,Closed Lost,311569,2023,2024,240,6,1,False
+2023-05-30,Nicola Wright,GSK Commercial Sp zoo,Ferret sera inoculated by FLU for Neuraminidase testing,23845.0,26495.12154199496,2023-07-24,New Business,Closed Lost,310835,2023,2023,55,5,7,False
+2023-04-07,Christopher Herz,MUVON Therapeutics AG,Rapid sterility testing,23500.0,26111.778412114974,2023-08-08,New Business,Closed Lost,305342,2023,2023,123,4,8,False
+2023-06-01,Paula Kassouf,"Akero Therapeutics, Inc.",Extractable Volume Testing to support Specification,23080.0,25645.0998192176,2023-06-21,Existing Business,Closed Won,311234,2023,2023,20,6,6,True
+2023-04-10,Laura Karkowski,Alvotech hf,rabbit pyrogen testing,22905.0,25450.65040551036,2023-10-31,Existing Business,Closed Lost,305398,2023,2023,204,4,10,False
+2023-05-04,Nicole McAlpine,University of Washington,"MAT, Sterility, Endotoxin-University of Washington",22800.0,25333.98075728602,2024-12-31,New Business,Negotiate,308228,2023,2024,607,5,12,False
+2023-05-05,Aisling Mullaney,CR Microbial Sol Int Ltd Sales Reps,DET Study,22720.0,25245.08959673414,2023-07-05,Existing Business,Closed Lost,308320,2023,2023,61,5,7,False
+2023-02-08,Galiya Sakaeva,Biotest AG,Diphteria testing - Qualification of Diphtheria Antitoxin,22690.0,25211.755411527185,2023-02-13,Existing Business,Closed Won,297871,2023,2023,5,2,2,True
+2023-07-20,Nicole Kovacs,Medimmune UK Limited,Antiserum Qualification Study for L-91968-23A,22685.0,25206.19971399269,2023-08-03,Existing Business,Closed Won,316456,2023,2023,14,7,8,True
+2023-08-10,Aaron Reed,Thermo Fisher Scientific Incorporated,Bacterial Challenge for Pall Filters,25000.0,25000.0,2023-08-16,New Business,Closed Lost,318804,2023,2023,6,8,8,False
+2023-06-26,Laura Karkowski,Horizon Therapeutics Ireland DAC,RPT testing,22185.0,24650.62996054344,2023-07-19,Existing Business,Closed Won,313872,2023,2023,23,6,7,True
+2023-05-31,Nicola Wright,Queen's University Belfast,LPS Sterility testing,22160.0,24622.85147287097,2023-10-05,Existing Business,Closed Lost,311131,2023,2023,127,5,10,False
+2023-02-15,Nicole Kovacs,AstraZeneca, AZD1222 DP Testing,22125.0,24583.96159012953,2023-04-28,Existing Business,Closed Won,298850,2023,2023,72,2,4,True
+2023-11-13,Xenia Cabagnols,Sanofi Pasteur SA,Rapid sterility and bioburden,22028.0,24476.18105796037,2024-03-27,New Business,Closed Won,329115,2023,2024,135,11,3,True
+2023-10-10,Christopher Herz,Ceva - Phylaxia Zrt,2024 Yearly Quote -Routine Testing for 2024,22000.0,24445.069151767213,2024-01-31,Existing Business,Closed Won,325111,2023,2024,113,10,1,True
+2023-04-03,Nicola Wright,Resolution Therapeutics Limited,"sterility, endotoxin and mycoplasma testing",21955.0,24395.067873956777,2023-04-26,New Business,Closed Lost,304628,2023,2023,23,4,4,False
+2023-03-13,Michael Spring,Galderma AB,Statistical Analysis quote for  Hypothetical Low Potency Data,21680.0,24089.504509559687,2023-04-25,Existing Business,Closed Won,301946,2023,2023,43,3,4,True
+2023-01-25,Galiya Sakaeva,MagForce NT GmbH,RPT testing for 2023,21570.0,23967.279163800853,2023-01-25,Existing Business,Closed Won,295820,2023,2023,0,1,1,True
+2023-07-06,Paula Kassouf,"Akero Therapeutics, Inc.",Purchase of additional equipment,21470.0,23856.165213111,2023-08-02,Existing Business,Closed Won,314955,2023,2023,27,7,8,True
+2023-02-10,Nicole Kovacs,AstraZeneca Pharmaceuticals LP, Ovalbumin optimization 2023  AZ,21436.0,23818.38646987645,2023-04-12,Existing Business,Closed Won,298232,2023,2023,61,2,4,True
+2023-05-11,Laura Karkowski,Takeda Pharmaceuticals Intl. AG IE,VPRIV PS20 Quantitation by HPLC CAD,21220.0,23578.380336386374,2023-05-18,Existing Business,Closed Won,309000,2023,2023,7,5,5,True
+2023-10-10,Laura Karkowski,Harmac Medical Products Limited,2024 Yearly Quote - Routine Testing for 2024,21000.0,23333.929644868706,2024-01-02,Existing Business,Closed Won,325124,2023,2024,84,10,1,True
+2023-10-23,Nicole Kovacs,AstraZeneca Pharmaceuticals LP,FFA testing - in valids and hypothesis testing,20870.0,23189.481508971898,2024-08-13,Existing Business,Closed Lost,326673,2023,2024,295,10,8,False
+2023-07-10,Nicola Wright,Mestag Therapeutics Ltd,M/D - cIEF - bispecific antibodies,20770.0,23078.367558282043,2023-08-01,New Business,Closed Lost,315291,2023,2023,22,7,8,False
+2023-08-11,Paula Kassouf,"Akero Therapeutics, Inc.",Transfer of Micro Flow Imaging (MFI) method for determination subvisible particles,20500.0,22778.359891419448,2023-09-07,Existing Business,Closed Lost,318907,2023,2023,27,8,9,False
+2023-07-19,Laura Karkowski,Allergan Pharmaceuticals Ireland,mycoplasma testing,20400.0,22667.2459407296,2023-09-05,New Business,Closed Won,316317,2023,2023,48,7,9,True
+2023-10-09,Laura Karkowski,AbbVie Ireland NL BV,2024 Yearly Quote - Routine Testing for 2024,20000.0,22222.790137970194,2024-02-14,Existing Business,Closed Won,324953,2023,2024,128,10,2,True
+2023-10-11,Laura Karkowski,Phibro Animal Health Corporation,2024 Yearly Quote - Routine Testing for 2024,20000.0,22222.790137970194,2024-01-02,Existing Business,Closed Won,325305,2023,2024,83,10,1,True
+2023-11-01,Amy Zemanek,Biosentinel Pharmaceuticals,2024 Yearly Quote - Storage of samples,20000.0,22222.790137970194,2024-01-02,Existing Business,Closed Won,327833,2023,2024,62,11,1,True
+2023-05-16,Christopher Herz,CDR-Life AG.,Microbial Challenge test,19845.0,22050.563514400925,2023-09-05,New Business,Closed Won,309439,2023,2023,112,5,9,True
+2023-01-12,Brennan Ramos,Citius Pharmaceuticals Incorporated,2023 Rabbit Pyrogen Testing,19670.0,21856.114100693685,2023-01-17,Existing Business,Closed Won,294285,2023,2023,5,1,1,True
+2023-01-18,Francois Devesa,GTP Biologics,"BHT, project I40, 1 tox batch sample",19315.0,21461.659575744718,2023-02-01,New Business,Closed Won,294858,2023,2023,14,1,2,True
+2023-03-29,Michael Spring,Nanoform Finland Oyj,Bioburden & endotoxin on nanoparticles,18985.0,21094.983538468205,2023-05-12,New Business,Closed Lost,304068,2023,2023,44,3,5,False
+2023-01-31,Bjoern Kolbe,BioNTech Innovative,Sterility yeary SOW 2023,18860.0,20956.09110010589,2023-03-13,Existing Business,Closed Won,296703,2023,2023,41,1,3,True
+2023-05-23,Francois Devesa,PathoQuest SAS,Sterility and mycoplasma of an avian cell line for cultured meat,18705.0,20783.864476536623,2023-08-08,New Business,Cancelled,310227,2023,2023,77,5,8,False
+2023-08-02,Paula Kassouf,"Akero Therapeutics, Inc.",Method Transfer of Coulometric Residual Moisture Determination & Ver of color for Lyophilized cake,18325.0,20361.63146391519,2023-08-23,Existing Business,Closed Won,317892,2023,2023,21,8,8,True
+2023-01-24,Nicola Wright,Reacta Biotech Limited,Supplementary SDS-PAGE validation for Milk Low and High Dose samples,18160.0,20178.293445276933,2023-02-20,Existing Business,Closed Won,295674,2023,2023,27,1,2,True
+2023-10-11,Francois Devesa,Octapharma,2024 Yearly Quote - Routine Testing for 2024,18000.0,20000.51112417317,2024-01-02,Existing Business,Closed Won,325294,2023,2024,83,10,1,True
+2023-03-22,Nicola Wright,Autolus Ltd.,Mycoplasma comparison  - DNA extraction - Part 2,17775.0,19750.50473512101,2023-07-10,New Business,Closed Won,303308,2023,2023,110,3,7,True
+2023-02-23,Laura Karkowski,3P Biopharmaceutical SL,CHO MCB testing E22008,17750.0,19722.726247448547,2023-04-18,Existing Business,Closed Won,299780,2023,2023,54,2,4,True
+2023-12-06,Nicola Wright,AFT Pharma UK Limited,Sterility testing,17385.0,19317.16032743059,2024-01-18,New Business,Closed Lost,331679,2023,2024,43,12,1,False
+2023-04-05,Michael Spring,Q-Med AB,LD50 Assays at different dilutional strengths for testing of BotNT DP,17372.0,19302.71551384091,2023-04-12,New Business,Closed Won,304967,2023,2023,7,4,4,True
+2023-08-22,Nicola Wright,Imperial College London,Mouse Immunisation Study,17260.0,19178.26788906828,2023-11-21,New Business,Closed Lost,319814,2023,2023,91,8,11,False
+2023-05-10,Laura Karkowski,Metatissue,sterility and mycoplasma on platelet lysate,17205.0,19117.155216188858,2023-08-25,New Business,Closed Lost,308792,2023,2023,107,5,8,False
+2023-10-09,Laura Karkowski,Abbott Ireland,2024 Yearly Quote - Routine testing for 2024,17148.0,19053.82026429564,2024-01-04,Existing Business,Closed Won,324952,2023,2024,87,10,1,True
+2023-09-25,Paula Kassouf,Allakos Inc.,Microbial Challenge Study,17005.0,18894.92731480916,2023-10-26,New Business,Closed Won,323565,2023,2023,31,9,10,True
+2023-10-10,Laura Karkowski,Merck Millipore Ltd,2024 Yearly Quote - Routine Testing for 2024,17000.0,18889.371617274664,2024-02-29,Existing Business,Closed Won,325149,2023,2024,142,10,2,True
+2023-10-11,Amy Zemanek,"TriRx Shawnee, LLC",2024 Yearly Quote - Routine Testing for 2024,17000.0,18889.371617274664,2024-01-08,Existing Business,Closed Won,325343,2023,2024,89,10,1,True
+2023-02-17,Francois Devesa,GTP Biologics,"Bulk harvest testing, GMP batch project I40",17000.0,18889.371617274664,2023-08-03,New Business,Cancelled,299135,2023,2023,167,2,8,False
+2023-03-30,Brennan Ramos,"Scholar Rock, Inc.",Microbial Challenge Study,16695.0,18550.474067670617,2023-06-06,Existing Business,Closed Won,304225,2023,2023,68,3,6,True
+2023-05-16,Nicola Wright,University of Bristol,BSL3 COVID hamster Study,16615.0,18461.582907118736,2023-07-19,Existing Business,Closed Lost,309510,2023,2023,64,5,7,False
+2023-07-10,Nicola Wright,Reacta Biotech Limited,Western Blot to analyse Milk Allergens,16480.0,18311.57907368744,2023-07-14,Existing Business,Closed Won,315274,2023,2023,4,7,7,True
+2023-02-17,Laura Karkowski,WuXi Vaccines Ireland Limited,environmental monitoring,16375.0,18194.90942546309,2023-08-09,Existing Business,Closed Won,299151,2023,2023,173,2,8,True
+2023-05-04,Laura Karkowski,Aerie Pharmaceuticals Ireland Ltd.,Sterility testing - Isolator,16370.0,18189.353727928603,2023-05-15,Existing Business,Closed Won,308131,2023,2023,11,5,5,True
+2023-03-01,Aisling Mullaney,"Charles River Laboratories, Inc.",Disinfectant Study,16310.0,18122.68535751469,2024-08-20,Existing Business,Closed Lost,300470,2023,2024,538,3,8,False
+2023-02-09,Laura Karkowski,Takeda Pharmaceuticals Intl. AG IE,BSA assay control qualification,16130.0,17922.68024627296,2023-05-08,Existing Business,Closed Won,298046,2023,2023,88,2,5,True
+2023-08-15,Amy Zemanek,Orange Grove Bio,MAT,15870.0,17633.78397447935,2023-11-28,New Business,Closed Lost,319234,2023,2023,105,8,11,False
+2023-07-26,Haewon Ahn,Celltrion Incorporated,RPT for CT_P41,15585.0,17317.10921501327,2023-08-14,Existing Business,Closed Won,317170,2023,2023,19,7,8,True
+2023-02-05,Haewon Ahn,Celltrion Incorporated,RPT for CT-P43 IV DP,15585.0,17317.10921501327,2023-03-28,Existing Business,Closed Won,297405,2023,2023,51,2,3,True
+2023-09-22,Haewon Ahn,Celltrion Incorporated,RPT for CT-P47 IV DP (400mg/20mL),15585.0,17317.10921501327,2023-11-01,Existing Business,Closed Won,323364,2023,2023,40,9,11,True
+2023-09-22,Haewon Ahn,Celltrion Incorporated,RPT for CT-P47 SC DP (162mg/0.9mL),15585.0,17317.10921501327,2023-11-01,Existing Business,Closed Won,323365,2023,2023,40,9,11,True
+2023-11-01,Haewon Ahn,Celltrion Incorporated,RPT 2024 -  Budget pricing,15340.0,17044.88003582314,2024-08-14,Existing Business,Closed Lost,327820,2023,2024,287,11,8,False
+2023-10-26,Michael Spring,Profarma UAB,mouse immunogenicity testing_GMP,15225.0,16917.09899252981,2024-02-06,New Business,Closed Lost,327127,2023,2024,103,10,2,False
+2023-01-06,Laura Karkowski,Medifill Limited,Environmental Monitoring,15195.0,16883.764807322852,2023-03-29,New Business,Closed Lost,293587,2023,2023,82,1,3,False
+2023-11-15,Michael Spring,Q-Med AB,rabbit pyrogenicity testing,15160.0,16844.874924581407,2024-01-29,New Business,Closed Won,329463,2023,2024,75,11,1,True
+2023-02-08,Francois Devesa,SUPREME,Mycoplasma testing,15045.0,16717.093881288078,2023-04-05,New Business,Closed Lost,297854,2023,2023,56,2,4,False
+2023-10-10,Laura Karkowski,Medifill Limited,2024 Yearly Quote - Routine Testing for 2024,15000.0,16667.092603477646,2024-01-02,Existing Business,Closed Won,325135,2023,2024,84,10,1,True
+2023-07-11,Brennan Ramos,"Alkermes, Inc.",RPT for 3 batches of DP and 3 batches of IVSS,14781.0,16423.753051466872,2023-11-27,New Business,Closed Won,315406,2023,2023,139,7,11,True
+2023-09-19,Angela Bleck,Cobra Biologics Holding Ltd,Sterility Testing,14775.0,16417.08621442548,2023-09-25,Existing Business,Closed Won,322885,2023,2023,6,9,9,True
+2023-01-12,Olaf Stamm,Hayat Pharmaceutical Industries Co Plc,Hayat Pharmaceutical Industries Co. PLC-,14675.0,16305.972263735628,2024-02-21,New Business,Closed Lost,294267,2023,2024,405,1,2,False
+2023-06-27,Christopher Herz,Gedeon Richter Plc.,RPT testing for Denosumab USP 120mg and 60mg,14656.0,16284.860613104556,2023-09-26,Existing Business,Closed Won,314034,2023,2023,91,6,9,True
+2023-04-28,Nicola Wright,Rousselot BVBA,Triton  and LPS method verification for new matrix,14630.0,16255.970985925196,2023-10-11,New Business,Cancelled,307532,2023,2023,166,4,10,False
+2023-01-27,Steven Miklasz,"Charles River Laboratories, Inc.",TEM Outsourcing to SGS Malvern Samples,14614.0,16238.19275381482,2023-08-03,Existing Business,Closed Lost,296299,2023,2023,188,1,8,False
+2023-05-09,Nicola Wright,Accord Healthcare Ltd,Mycoplasma,14415.0,16017.075991942016,2023-09-29,New Business,Closed Lost,308633,2023,2023,143,5,9,False
+2023-12-04,Laura Karkowski,Croivalve Ltd,Sterility testing,14190.0,15767.069602889853,2024-01-02,Existing Business,Closed Won,331310,2023,2024,29,12,1,True
+2023-02-15,Brennan Ramos,Citius Pharmaceuticals Incorporated,Spiked-Hold RPT study for DP,14115.0,15683.734139872464,2023-04-25,Existing Business,Closed Won,298769,2023,2023,69,2,4,True
+2023-05-04,Bjoern Kolbe,Vibalogics GmbH,opalescence/coloration testing 2023,13985.0,15539.286003975658,2023-06-14,New Business,Closed Lost,308102,2023,2023,41,5,6,False
+2023-12-14,Laura Karkowski,Animal Health Distributors Limited,in vitro AVA on vet vaccine,13935.0,15483.729028630733,2024-07-22,New Business,Closed Lost,332565,2023,2024,221,12,7,False
+2023-08-03,Laura Karkowski,University of Girona,immunisation + challenge study,13770.0,15300.391009992478,2023-08-14,New Business,Closed Lost,318115,2023,2023,11,8,8,False
+2023-04-20,Nicola Wright,Reacta Biotech Limited,Supplementary Egg ELISA validation,13730.0,15255.945429716538,2023-10-24,Existing Business,Closed Lost,306690,2023,2023,187,4,10,False
+2023-03-23,Laura Karkowski,Ibet,sterility and mycoplasma,13690.0,15211.499849440595,2023-07-25,New Business,Closed Lost,303429,2023,2023,124,3,7,False
+2023-07-31,Nicola Wright,Reading Scientific Services Ltd,Mycoplasma,13685.0,15205.944151906104,2023-09-15,New Business,Closed Lost,317575,2023,2023,46,7,9,False
+2023-03-01,Laura Karkowski,WuXi Biologics Ireland Limited,subvis testing,13520.0,15022.606133267853,2023-04-28,Existing Business,Closed Won,300465,2023,2023,58,3,4,True
+2023-04-05,Laura Karkowski,WuXi Biologics Ireland Limited,sodium hydroxide testing,13511.0,15012.605877705764,2023-04-06,Existing Business,Closed Won,304987,2023,2023,1,4,4,True
+2023-04-25,Galiya Sakaeva,CSL Behring GmbH,RPT testing for 2023,13425.0,14917.047880112492,2023-05-24,Existing Business,Closed Won,307115,2023,2023,29,4,5,True
+2023-08-09,Hope Apolinar,Cook Myosite Incorporated,MAT Routine testing,13290.0,14767.044046681192,2023-11-01,Existing Business,Closed Won,318603,2023,2023,84,8,11,True
+2023-07-28,Laura Karkowski,VLE Therapeutics Ltd,DET,13198.0,14664.81921204653,2023-11-28,Existing Business,Closed Won,317509,2023,2023,123,7,11,True
+2023-03-03,Nicola Wright,Reacta Biotech Limited,Milk ELISA Validation,13180.0,14644.818700922357,2023-10-24,Existing Business,Closed Lost,300836,2023,2023,235,3,10,False
+2023-10-11,Laura Karkowski,Pfizer Ireland Pharmaceuticals,2024 Yearly Quote - Routine Testing for 2024,13000.0,14444.813589680623,2024-01-02,Existing Business,Closed Won,325302,2023,2024,83,10,1,True
+2023-03-03,Paula Kassouf,BioMarin Pharmaceutical Inc.,Sub-Vis Particles Testing Ph.Eur 2.9.19 & USP <788>.,12990.0,14433.70219461164,2023-06-22,New Business,Closed Lost,300812,2023,2023,111,3,6,False
+2023-01-17,Kjell Richter,Takeda Pharmaceuticals Intl. AG IE,VPRIV specific activity assays for the qualification of substrate p-Nitrophenyl-β-Dglucopyranoside.,12520.0,13911.46662636934,2023-01-19,Existing Business,Closed Won,294707,2023,2023,2,1,1,True
+2023-11-20,Nicola Wright,Virocell Biologics Ltd.,SV40 Large T antigen - KAN p.DNA,12415.0,13794.796978144996,2024-01-16,New Business,Cancelled,329931,2023,2024,57,11,1,False
+2023-09-13,Laura Karkowski,WuXi Biologics Ireland Limited, Raw Material Testing - Ethanol IDs,12405.0,13783.685583076012,2023-09-25,Existing Business,Closed Won,322229,2023,2023,12,9,9,True
+2023-01-30,Laura Karkowski,VLE Therapeutics Ltd,mycoplasma testing,12185.0,13539.23489155834,2023-02-21,Existing Business,Closed Won,296467,2023,2023,22,1,2,True
+2023-07-21,Michael Spring,Procella Therapeutics AB,"Mycoplasma testing non GMP, cell based testing",12185.0,13539.23489155834,2023-09-21,New Business,Closed Lost,316646,2023,2023,62,7,9,False
+2023-11-02,Laura Karkowski,PCI Pharma Services,SVP Verification and routine testing,12150.0,13500.345008816892,2024-07-04,Existing Business,Closed Won,328005,2023,2024,245,11,7,True
+2023-01-06,Haewon Ahn,Abion Inc.,comparison study,12130.0,13478.122218678922,2023-02-27,Existing Business,Closed Won,293566,2023,2023,52,1,2,True
+2023-05-09,Brennan Ramos,"Mersana Therapeutics, Inc.",RPT Study for XMT-1536 ADC DP,12111.0,13457.01056804785,2023-07-11,New Business,Closed Won,308638,2023,2023,63,5,7,True
+2023-04-13,Laura Karkowski,Genzyme Ireland Ltd.,GMP Mycoplasma testing on mammalian cells,12005.0,13339.229780316608,2023-06-27,New Business,Closed Lost,305886,2023,2023,75,4,6,False
+2023-01-27,Nicola Wright,Virocell Biologics Ltd.,Rapid mycoplasma testing,11925.0,13250.338619764729,2023-04-10,New Business,Closed Lost,296264,2023,2023,73,1,4,False
+2023-02-08,Nicola Wright,Autolus Ltd.,Mycoplasma comparability testing for PCR mycoplasma validation (PCR done by Autolus),11890.0,13211.44873702328,2023-03-29,New Business,Closed Won,297939,2023,2023,49,2,3,True
+2023-09-19,Laura Karkowski,Reithera Srl,small volume sub vis,11885.0,13205.893039488788,2023-12-18,New Business,Closed Lost,322900,2023,2023,90,9,12,False
+2023-11-06,Chad Dubbelde,Pramand LLC,MAT Testing,11760.0,13067.000601126474,2024-09-09,New Business,Closed Won,328360,2023,2024,308,11,9,True
+2023-11-08,Christopher Herz,Neuroderm Ltd,MAT testing,11760.0,13067.000601126474,2024-01-11,New Business,Closed Won,328613,2023,2024,64,11,1,True
+2023-07-24,Jun Long Tan,BrightGene Fermentation Technology Company Limited,MAT testing to EP,11760.0,13067.000601126474,2024-02-07,New Business,Closed Won,316796,2023,2024,198,7,2,True
+2023-06-20,Aisling Mullaney,Cobra Biologics Holding Ltd,Sterility,11740.0,13044.777810988504,2024-02-08,Existing Business,Cancelled,313220,2023,2024,233,6,2,False
+2023-03-16,Shunsuke Tonomori,Biospire Japan Ltd,Additional MAT tests,11580.0,12866.99548988474,2023-08-03,Existing Business,Closed Won,302512,2023,2023,140,3,8,True
+2023-11-15,Xenia Cabagnols,Liof Pharma S.L,CCIT - Glass type I vials (6R),11555.0,12839.21700221228,2024-03-26,New Business,Closed Won,329414,2023,2024,132,11,3,True
+2023-07-03,Xenia Cabagnols,PPD Development Ireland Limited,LER Study,11365.0,12628.100495901564,2024-02-29,Existing Business,Closed Lost,314648,2023,2024,241,7,2,False
+2023-10-04,Michael Spring,Bioarctic AB,MAT,11300.0,12555.87642795316,2024-01-23,New Business,Closed Won,324518,2023,2024,111,10,1,True
+2023-07-10,Brennan Ramos,Immunogen Incorporated,Troubleshooting LER using Kinetic Chromogenic LAL,11155.0,12394.761199452874,2023-07-24,Existing Business,Closed Won,315346,2023,2023,14,7,7,True
+2023-07-05,Nicole Kovacs,AstraZeneca Pharmaceuticals LP,Additional FFA work,11017.0,12241.42394750088,2024-02-14,Existing Business,Closed Won,314888,2023,2024,224,7,2,True
+2023-05-24,Michael Spring,Biovian Oy,Ph. Eur. 2.6.13 compliant microbial testing,10995.0,12216.978878349111,2024-01-09,New Business,Closed Lost,310360,2023,2024,230,5,1,False
+2023-07-18,Nicola Wright,Reacta Biotech Limited,Peanut Allergen Analysis using SDS-PAGE method,10935.0,12150.310507935204,2023-10-24,Existing Business,Closed Lost,316182,2023,2023,98,7,10,False
+2023-03-28,Nicole Kovacs,Medimmune UK Limited,Shippment of 26 Ferrets to UK,10920.0,12133.643415331726,2023-04-20,Existing Business,Closed Won,303880,2023,2023,23,3,4,True
+2023-09-26,Nicola Wright,MicroPharm Ltd,SEC-HPLC,10890.0,12100.30923012477,2023-10-03,Existing Business,Closed Won,323652,2023,2023,7,9,10,True
+2023-06-05,Michael Spring,Procella Therapeutics AB,mycoplasma testing,10845.0,12050.307952314335,2023-08-09,New Business,Cancelled,311511,2023,2023,65,6,8,False
+2023-04-12,Galiya Sakaeva,IDT Biologika GmbH,HSA detection-MD/MQ/MV,10810.0,12011.418069572888,2023-06-22,Existing Business,Closed Won,305647,2023,2023,71,4,6,True
+2023-03-03,Laura Karkowski,Phibro Animal Health Corporation,TOC testing,10720.0,11911.415513952024,2023-03-07,Existing Business,Closed Won,300908,2023,2023,4,3,3,True
+2023-07-05,Bjoern Kolbe,BioNTech Innovative,L3 Liposome assay with Study Plan and report,10710.0,11900.304118883038,2023-07-14,Existing Business,Closed Won,314819,2023,2023,9,7,7,True
+2023-06-19,Nicola Wright,Pharmaron UK Limited,MLT and endotoxin,10705.0,11894.748421348546,2023-07-27,New Business,Closed Lost,313131,2023,2023,38,6,7,False
+2023-06-30,Francois Devesa,Smart Bioscience,MLT & Endotoxin testing on a peptide API,10705.0,11894.748421348546,2024-02-02,New Business,Closed Lost,314491,2023,2024,217,6,2,False
+2023-01-17,Laura Karkowski,Medifill Limited,sterility testing for 2023,10600.0,11778.078773124202,2023-01-17,Existing Business,Closed Won,294672,2023,2023,0,1,1,True
+2023-04-13,Nicola Wright,Byondis B.V,Bracketing for disinfectant study,10490.0,11655.853427365366,2024-01-22,New Business,Closed Lost,305849,2023,2024,284,4,1,False
+2023-01-09,Livia Lu,Citius Pharmaceuticals Incorporated, LAL LER study  CITIUS,10400.0,11555.8508717445,2023-09-18,New Business,Closed Lost,293767,2023,2023,252,1,9,False
+2023-05-30,Nicola Wright,Virocell Biologics Ltd.,GMO permits Ballina and Erkrath,10205.0,11339.17866789929,2024-03-14,New Business,Cancelled,310870,2023,2024,289,5,3,False
+2023-10-25,Bjoern Kolbe,BioNTech Innovation and Services Marburg GmbH,MAT testing; initial test for interference factors,10170.0,11300.288785157843,2023-12-04,New Business,Closed Won,326983,2023,2023,40,10,12,True
+2023-08-01,Aisling Mullaney,"Charles River Laboratories, Inc.",Disinfectant Study with SDS-PAGE,10160.0,11289.177390088858,2024-02-12,Existing Business,Closed Lost,317791,2023,2024,195,8,2,False
+2023-05-09,Brennan Ramos,Immunogen Incorporated,LER Study,10155.0,11283.621692554363,2023-05-23,New Business,Closed Won,308628,2023,2023,14,5,5,True
+2023-01-11,Nicola Wright,Oxford Biomedica (UK) Ltd,Conductivity and CCIT,10135.0,11261.398902416397,2023-09-25,New Business,Closed Lost,294106,2023,2023,257,1,9,False
+2022-10-19,Francois Devesa,Texcell S.A.,2023 Yearly Quote  - Routine testing for 2023 - MAP/HAP,10000.0,11111.395068985095,2023-07-11,Existing Business,Closed Won,285590,2022,2023,265,10,7,True
+2023-10-11,Michael Spring,Oy Medfiles Ltd,2024 Yearly Quote - Routine Testing for 2024,10000.0,11111.395068985095,2024-01-02,Existing Business,Closed Won,325298,2023,2024,83,10,1,True
+2023-10-11,Bjoern Kolbe,Medisize Corporation,2024 Yearly Quote - Routine Testing for 2024,10000.0,11111.395068985095,2024-07-11,Existing Business,Closed Lost,325307,2023,2024,274,10,7,False
+2023-09-21,Laura Karkowski,WuXi Vaccines Ireland Limited,Biological Indicator testing,10000.0,11111.395068985095,2023-10-02,Existing Business,Closed Won,323192,2023,2023,11,9,10,True
+2023-09-21,Paula Kassouf,"Akero Therapeutics, Inc.",Placebo Testing,10000.0,11111.395068985095,2023-10-16,New Business,Closed Won,323233,2023,2023,25,9,10,True
+2023-01-23,Laura Karkowski,Warburton Technology Limited,testing for 2023 - PET,10000.0,11111.395068985095,2023-02-02,Existing Business,Closed Won,295525,2023,2023,10,1,2,True
+2023-09-13,Matt Turner,Revelation Biosciences Inc,Pyrogen Testing,9845.0,10939.168445415828,2023-09-26,New Business,Closed Won,322306,2023,2023,13,9,9,True
+2023-09-05,Nicola Wright,VectorY Therapeutics,Fast-track endotoxin and bioburden testing,9790.0,10878.055772536409,2023-10-04,New Business,Closed Lost,321314,2023,2023,29,9,10,False
+2023-02-28,Nicole Kovacs,Medimmune UK Limited,Shipment of 8 ferrets to UK,9695.0,10772.497519381051,2023-03-01,Existing Business,Closed Won,300298,2023,2023,1,2,3,True
+2023-11-15,Nicola Wright,United Kingdom Health Security Agency,Supply of 4 Ferrets,7979.0,10444.9887224492,2023-11-21,Existing Business,Closed Lost,329404,2023,2023,6,11,11,False
+2023-11-29,Laura Karkowski,PPD Development Ireland Limited,Endotoxin and Sterility testing for Cobolimab,9390.0,10433.599969777006,2023-12-14,Existing Business,Closed Won,330772,2023,2023,15,11,12,True
+2022-12-21,Christopher Herz,Kamada Ltd,Sterility testing-Q1,9380.0,10422.48857470802,2023-11-08,Existing Business,Closed Lost,292690,2022,2023,322,12,11,False
+2023-11-28,Laura Karkowski,Philips-Medisize Sligo Ltd,LAL testing on medical device,9370.0,10411.377179639036,2024-02-26,New Business,Closed Lost,330714,2023,2024,90,11,2,False
+2023-09-13,Nicola Wright,Autolus Ltd.,Mycoplasma Testing with DNA Extraction to R&D,9370.0,10411.377179639036,2023-09-26,Existing Business,Closed Won,322264,2023,2023,13,9,9,True
+2023-02-20,Laura Karkowski,WuXi Biologics Ireland Limited,sterility and mycoplasma testing,9320.0,10355.82020429411,2023-07-11,Existing Business,Closed Won,299394,2023,2023,141,2,7,True
+2023-04-19,Christopher Herz,Helsinn Healthcare S.A.,"MAT, 3 Samples",9315.0,10350.264506759617,2023-04-24,New Business,Closed Won,306490,2023,2023,5,4,4,True
+2023-05-23,Nicola Wright,Reacta Biotech Limited,Milk & Egg ELISA Selective SOW,9270.0,10300.263228949185,2023-10-24,Existing Business,Closed Won,310254,2023,2023,154,5,10,True
+2023-02-09,Hope Apolinar,Irazu Oncology LLC,MAT,9240.0,10266.92904374223,2023-08-15,New Business,Closed Lost,298166,2023,2023,187,2,8,False
+2023-06-16,Laura Karkowski,Nanoligent S L,MAT testing,9240.0,10266.92904374223,2023-07-14,New Business,Closed Lost,312972,2023,2023,28,6,7,False
+2023-10-25,Hope Apolinar,Cook Myosite Incorporated,2024 Yearly Quote - Routine Testing for 2024,9000.0,10000.255562086586,2024-01-02,Existing Business,Closed Won,326964,2023,2024,69,10,1,True
+2023-10-10,Nicola Wright,Collagen Solutions (UK) Limited,2024 Yearly Quote - Routine Testing for 2024,9000.0,10000.255562086586,2024-02-21,Existing Business,Closed Won,325112,2023,2024,134,10,2,True
+2023-08-15,Francois Devesa,uniQure France SAS,Assising fit for purpose of Qualified Poloxamer Method for Final  Drug Product,8980.0,9978.032771948616,2023-08-30,Existing Business,Closed Won,319166,2023,2023,15,8,8,True
+2023-11-10,Christopher Herz,Neuroderm Ltd,LER mitigation study,8525.0,9472.464296309794,2023-12-18,New Business,Closed Won,328913,2023,2023,38,11,12,True
+2023-02-02,Livia Lu,Creative Biostructure,Rabbit Pyrogen Testing,8520.0,9466.908598775302,2023-06-08,New Business,Closed Lost,297088,2023,2023,126,2,6,False
+2023-03-04,Christopher Herz,Gedeon Richter Plc.,Rabbit pyrogen testing,8519.0,9465.797459268404,2023-03-23,New Business,Closed Won,300963,2023,2023,19,3,3,True
+2023-08-18,Laura Karkowski,Zoetis Ireland,HCP Kit,8460.0,9400.240228361392,2023-08-23,Existing Business,Closed Won,319583,2023,2023,5,8,8,True
+2023-01-06,Paula Kassouf,"Akero Therapeutics, Inc.",Needle Study,8430.0,9366.906043154437,2023-02-16,New Business,Closed Won,293560,2023,2023,41,1,2,True
+2023-07-10,Michael Spring,Procella Therapeutics AB,MAP testing,8310.0,9233.569302326616,2024-01-02,New Business,Closed Lost,315266,2023,2024,176,7,1,False
+2023-05-04,Nicola Wright,UCB Biopharma UK,MAP testing for 2023,8310.0,9233.569302326616,2023-07-26,Existing Business,Closed Lost,308110,2023,2023,83,5,7,False
+2023-05-31,Nicola Wright,Ipsen Biopharm Limited,Return of Archive Data,8176.0,9084.676608402217,2024-05-10,Existing Business,Closed Won,311098,2023,2024,345,5,5,True
+2023-12-15,Nicola Wright,ProtInhi Therapeutics B.V,MAT,8115.0,9016.897098481406,2024-02-16,New Business,Closed Lost,332703,2023,2024,63,12,2,False
+2023-04-11,Nicola Wright,SGS Vitrology Limited,Mycoplasma pilot studies,8015.0,8905.783147791555,2023-08-16,Existing Business,Closed Won,305517,2023,2023,127,4,8,True
+2023-01-09,Christopher Herz,Ceva - Phylaxia Zrt,2023 yearly quote - Routine testing for 2023,8010.0,8900.227450257062,2023-03-13,Existing Business,Closed Won,293690,2023,2023,63,1,3,True
+2023-10-16,Laura Karkowski,VLE Therapeutics Ltd,2024 Yearly Quote - Routine Testing for 2024,8000.0,8889.116055188077,2024-01-16,Existing Business,Closed Won,325848,2023,2024,92,10,1,True
+2023-10-03,Nicola Wright,Naturelle Consumer Products Ltd,Sterility testing - B&F and routine,7975.0,8861.337567515615,2024-03-14,New Business,Closed Lost,324395,2023,2024,163,10,3,False
+2023-09-22,Laura Karkowski,Takeda Pharmaceuticals Intl. AG IE,Elaprase SEC Assay Control stability,7758.0,8620.220294518638,2023-10-02,Existing Business,Closed Won,323367,2023,2023,10,9,10,True
+2023-01-27,Amy Zemanek,Elanco US Inc.,LTA curve using MAT,7440.0,8266.877931324912,2023-02-15,Existing Business,Closed Won,296330,2023,2023,19,1,2,True
+2023-04-12,Christopher Herz,Helsinn Healthcare S.A.,Rabbit pyrogen testing,7400.0,8222.432351048972,2023-04-12,New Business,Closed Won,305653,2023,2023,0,4,4,True
+2023-08-10,Kjell Richter,Takeda Austria GmbH,Repeat RPT test,7300.0,8111.31840035912,2023-08-22,Existing Business,Closed Won,318746,2023,2023,12,8,8,True
+2023-10-12,Christopher Herz,Numab Therapeutics AG,Osmolality testing,7140.0,7933.536079255358,2023-11-02,New Business,Closed Lost,325623,2023,2023,21,10,11,False
+2023-10-19,Paula Kassouf,"Dren Bio, Inc.",Microbial Challenge Study,7030.0,7811.310733496522,2023-10-25,Existing Business,Closed Won,326362,2023,2023,6,10,10,True
+2023-02-24,Laura Karkowski,VLE Therapeutics Ltd,biological indicators,7020.0,7800.199338427537,2023-03-03,Existing Business,Closed Won,299946,2023,2023,7,2,3,True
+2023-06-06,Laura Karkowski,Universitat Autonoma de Barcelona,endotoxin bioburden and mycoplasma testing on AAV R&D - W36?,6950.0,7722.419572944642,2023-08-22,New Business,Closed Lost,311708,2023,2023,77,6,8,False
+2023-07-20,Nicola Wright,Reacta Biotech Limited,Comparability study of different batches of Milk or Egg ELISA kit,6930.0,7700.196782806672,2023-08-16,Existing Business,Closed Won,316452,2023,2023,27,7,8,True
+2023-04-26,Nicola Wright,Pfizer Manufacturing Belgium NV,Sterility Residue Testing - Pfizer Puurs,6835.0,7594.638529651314,2023-08-22,Existing Business,Cancelled,307232,2023,2023,118,4,8,False
+2023-11-07,Bjoern Kolbe,Wuxi Biologics Germany GmbH,Trending of Data for WBP2151 samples,6825.0,7583.527134582328,2024-10-09,Existing Business,Closed Lost,328442,2023,2024,337,11,10,False
+2023-01-30,Nicole McAlpine,Amgen Incorporated,USP/EP/JP RPT,6625.0,7361.299233202626,2024-07-08,New Business,Closed Lost,296476,2023,2024,525,1,7,False
+2023-05-10,Laura Karkowski,Baxter Healthcare SA,Routine MAT testing,6495.0,7216.85109730582,2024-10-11,Existing Business,Cancelled,308785,2023,2024,520,5,10,False
+2023-05-04,Nicole McAlpine,University of Washington,RPT-University of Washington,6435.0,7150.18272689191,2024-12-31,New Business,Negotiate,308220,2023,2024,607,5,12,False
+2023-03-13,Nicole Kovacs,AstraZeneca Pharmaceuticals LP,Travel to AZ for troubleshooting project,6410.0,7122.404239219447,2023-05-08,Existing Business,Closed Won,301923,2023,2023,56,3,5,True
+2023-10-10,Laura Karkowski,Landspitali University Hospital,2024 Yearly Quote - Routine Testing for 2024,6300.0,7000.178893460611,2024-01-02,Existing Business,Closed Won,325131,2023,2024,84,10,1,True
+2023-06-23,Barbara Moran,Cobra Biologics Holding Ltd,Mycoplasma Study,6255.0,6950.177615650177,2023-07-06,Existing Business,Closed Won,313697,2023,2023,13,6,7,True
+2023-12-08,Anne Martin,ImmunoCore Ltd.,MAT feasibility study,6085.0,6761.283899477431,2025-01-31,New Business,Negotiate,331935,2023,2025,420,12,1,False
+2023-10-10,Nicola Wright,Norbrook Laboratories Limited,2024 Yearly Quote - Routine Testing for 2024,6000.0,6666.837041391058,2024-01-02,Existing Business,Closed Won,325157,2023,2024,84,10,1,True
+2023-01-06,Nicola Wright,Reacta Biotech Limited,SDS-PAGE validation,5945.0,6605.72436851164,2023-01-16,Existing Business,Closed Won,293578,2023,2023,10,1,1,True
+2023-03-15,Nicole Kovacs,Medimmune UK Limited,Quote for Unused G. Pigs,4950.0,6479.846368733367,2023-06-30,Existing Business,Closed Won,302421,2023,2023,107,3,6,True
+2023-11-09,Nicole McAlpine,ClearSight LLC,MAT testing- Clearsight,5780.0,6422.386349873385,2024-12-31,New Business,Negotiate,328826,2023,2024,418,11,12,False
+2023-01-25,Kjell Richter,AGC Biologics AS,SVP Batch CMC-R-0019 (4 samples),5775.0,6416.830652338893,2023-05-30,Existing Business,Closed Won,295814,2023,2023,125,1,5,True
+2023-08-01,Aaron Reed,"Airway Therapeutics, Inc.",Routine testing for icIEF,5710.0,6344.60658439049,2023-08-10,Existing Business,Closed Won,317754,2023,2023,9,8,8,True
+2023-08-23,Olaf Stamm,Eugia Pharma Specialties Ltd,RPT testing,5645.0,6272.382516442087,2024-02-21,New Business,Closed Lost,320049,2023,2024,182,8,2,False
+2023-04-19,Kjell Richter,Takeda Pharmaceuticals Intl. AG IE,HPLC Analysis of Idursulfase,5545.0,6161.268565752236,2023-04-20,Existing Business,Closed Won,306485,2023,2023,1,4,4,True
+2023-06-26,Laura Karkowski,"Stryker Ireland, Ltd",disinfectant study,5505.0,6116.822985476296,2023-07-24,Existing Business,Closed Won,313908,2023,2023,28,6,7,True
+2023-10-10,Laura Karkowski,Gilead Sciences Ltd.,2024 Yearly Quote - Routine Testing for 2024,5500.0,6111.267287941803,2024-01-11,Existing Business,Closed Won,325122,2023,2024,93,10,1,True
+2023-10-25,Laura Karkowski,PPD Development Ireland Limited,LAL LER Study,5445.0,6050.154615062385,2024-02-07,Existing Business,Closed Won,326967,2023,2024,105,10,2,True
+2023-10-11,Laura Karkowski,Ovagen Group Limited,2024 Yearly Quote - Routine Testing for 2024,5300.0,5889.039386562101,2024-07-29,Existing Business,Closed Lost,325295,2023,2024,292,10,7,False
+2023-04-04,Laura Karkowski,Baxter Healthcare SA,MAT,5290.0,5877.927991493116,2023-05-10,Existing Business,Closed Won,304817,2023,2023,36,4,5,True
+2023-04-03,Nadiya Kravchuk,Yangzhou Liberty Pharmaceutical Company Limited,MAT Interference test,5290.0,5877.927991493116,2023-09-11,New Business,Closed Lost,304597,2023,2023,161,4,9,False
+2023-09-05,Christopher Herz,Demo SA,MAT testing,5290.0,5877.927991493116,2023-10-19,New Business,Closed Won,321214,2023,2023,44,9,10,True
+2023-06-27,Kjell Richter,Takeda Pharmaceuticals Intl. AG IE,PS20 Frozen Assay control qualification for Elaprase,5277.0,5863.483177903436,2023-07-10,Existing Business,Closed Won,314008,2023,2023,13,6,7,True
+2023-03-06,Livia Lu,"Outlook Therapeutics, Inc.",MAT Interference test,5245.0,5827.926713682683,2023-03-21,Existing Business,Closed Won,301011,2023,2023,15,3,3,True
+2023-02-13,Nicola Wright,Glycostem Therapeutics BV,Sterility,5215.0,5794.592528475728,2023-07-19,New Business,Closed Lost,298437,2023,2023,156,2,7,False
+2023-01-04,Aaron Reed,"Locus Biosciences, Inc",MAT Testing - Locus Bio,5200.0,5777.92543587225,2023-03-14,New Business,Closed Lost,293306,2023,2023,69,1,3,False
+2023-12-19,Laura Karkowski,APC Limited,TEM on CHO BH BSL2,5080.0,5644.588695044429,2024-02-12,Existing Business,Closed Won,333116,2023,2024,55,12,2,True
+2023-08-29,Aisling Mullaney,"DECHRA VETERINARY PRODUCTS, LLC",Return of Archive Data,5005.0,5561.253232027041,2023-08-31,Existing Business,Closed Won,320550,2023,2023,2,8,8,True
+2022-12-28,Nicola Wright,SGS Vitrology Limited,2023 Yearly Quote- Routine Testing for 2023 - EP and USP,5000.0,5555.697534492549,2023-02-03,Existing Business,Closed Won,293030,2022,2023,37,12,2,True
+2022-12-28,Nicola Wright,SGS Vitrology Limited,2023 Yearly Quote - Routine testing for 2023 -  JP,5000.0,5555.697534492549,2023-08-16,Existing Business,Closed Lost,293034,2022,2023,231,12,8,False
+2023-10-09,Laura Karkowski,Alkermes Pharma Ireland Ltd,2024 yearly Quote - Routine Testing for 2024,5000.0,5555.697534492549,2024-01-02,Existing Business,Closed Won,324957,2023,2024,85,10,1,True
+2023-10-11,Laura Karkowski,Mylan Teoranta,2024 yearly Quote - Routine Testing for 2024,5000.0,5555.697534492549,2024-01-08,Existing Business,Closed Won,325346,2023,2024,89,10,1,True
+2023-01-31,Laura Karkowski,Takeda Ireland Ltd,endotoxin testing,5000.0,5555.697534492549,2023-01-31,Existing Business,Closed Won,296628,2023,2023,0,1,1,True
+2023-11-10,Matt Turner,OliX US Inc,USP 61 and USP 62 Testing,5000.0,5555.697534492549,2024-03-26,New Business,Cancelled,328980,2023,2024,137,11,3,False
+2023-01-30,Aaron Reed,Innovacorium Incorporated,Progencity Testing - Innovacorium,4930.0,5477.917769009652,2023-04-11,New Business,Closed Lost,296588,2023,2023,71,1,4,False
+2023-10-24,Christopher Herz,Neuroderm Ltd,Rabbit pyrogen testing,4930.0,5477.917769009652,2023-12-04,New Business,Closed Won,326845,2023,2023,41,10,12,True
+2023-02-09,Galiya Sakaeva,evonos GmbH & Co KG,RPT testing on medical Device,4930.0,5477.917769009652,2023-05-03,New Business,Closed Lost,298091,2023,2023,83,2,5,False
+2023-03-30,Christopher Herz,Helvetic Biopharma SA,hCG-Feasibility Study,4860.0,5400.138003526757,2023-04-26,New Business,Closed Won,304273,2023,2023,27,3,4,True
+2023-11-15,Laura Karkowski,PPD Development Ireland Limited,Endotoxin testing on Dostarlimab,4855.0,5394.582305992264,2024-01-17,Existing Business,Closed Won,329412,2023,2024,63,11,1,True
+2023-03-03,Francois Devesa,Prediction BioSciences SAS,GMP MAT testing,4800.0,5333.469633112846,2023-04-03,Existing Business,Closed Won,300861,2023,2023,31,3,4,True
+2023-10-10,Jun Long Tan,MSD International GmbH,2024 Yearly Quote - Routine Testing for 2024,4785.0,5316.802540509369,2024-02-07,Existing Business,Closed Won,325156,2023,2024,120,10,2,True
+2023-07-17,Livia Lu,"Outlook Therapeutics, Inc.",MAT Routine testing to R&D,4600.0,5111.241731733145,2023-07-21,Existing Business,Closed Won,316027,2023,2023,4,7,7,True
+2023-12-15,Laura Karkowski,Kora Healthcare,PET,4535.0,5039.017663784741,2024-07-23,New Business,Closed Lost,332843,2023,2024,221,12,7,False
+2023-10-10,Laura Karkowski,Curium Pharma Ireland Limited,2024 Yearly Quote - Routine Testing for 2024,4500.0,5000.127781043293,2024-01-08,Existing Business,Closed Won,325116,2023,2024,90,10,1,True
+2023-07-20,Nicola Wright,Reacta Biotech Limited,Skim Milk Powder Analysis using SDS-PAGE method,4485.0,4983.460688439815,2023-10-11,Existing Business,Closed Lost,316486,2023,2023,83,7,10,False
+2023-01-17,Kjell Richter,AGC Biologics AS,Additional Sub vis timepoint for 3 studies,4344.0,4826.790017967126,2023-01-25,Existing Business,Closed Won,294659,2023,2023,8,1,1,True
+2023-12-07,Laura Karkowski,Bimeda Animal Health Ltd.,sterility testing,4290.0,4766.788484594606,2024-01-02,New Business,Closed Won,331821,2023,2024,26,12,1,True
+2023-01-18,Galiya Sakaeva,GlaxoSmithKline Biologicals,Preservative Efficacy Test,4265.0,4739.009996922144,2024-05-10,New Business,Closed Lost,294892,2023,2024,478,1,5,False
+2023-02-01,Nicola Wright,Reacta Biotech Limited,	R&D ELISA kit comparability for Milk,4260.0,4733.454299387651,2023-02-07,Existing Business,Closed Won,296836,2023,2023,6,2,2,True
+2023-08-01,Xenia Cabagnols,Syntec Scientific Limited,bioburden on medical device,4225.0,4694.564416646203,2024-03-14,New Business,Closed Won,317814,2023,2024,226,8,3,True
+2023-01-03,Haewon Ahn,Daewoong Pharmaceutical Co Ltd,Courier to ship cells to South Korea,4190.0,4655.674533904756,2023-02-15,Existing Business,Closed Won,293186,2023,2023,43,1,2,True
+2023-05-08,Paula Kassouf,"Eureka Therapeutics, Inc.",Preservative Efficacy Testing,4130.0,4589.006163490845,2023-09-25,New Business,Closed Won,308569,2023,2023,140,5,9,True
+2023-10-11,Francois Devesa,Pfizer Manufacturing Belgium NV,2024 Yearly Quote - Routine Testing for 2024,4000.0,4444.558027594038,2024-01-17,Existing Business,Closed Won,325304,2023,2024,98,10,1,True
+2023-10-16,Nicola Wright,Teva NI Limited,2024 Yearly Quote - Routine Testing for 2024,4000.0,4444.558027594038,2024-01-02,Existing Business,Closed Won,325847,2023,2024,78,10,1,True
+2023-03-22,Nicola Wright,Teva NI Limited,Enumeration of plates for 2023,4000.0,4444.558027594038,2023-03-29,Existing Business,Closed Won,303342,2023,2023,7,3,3,True
+2023-01-24,Nicola Wright,Reneuron Limited,Sterility - Direct inoculation- R&D,4000.0,4444.558027594038,2023-01-30,Existing Business,Closed Won,295663,2023,2023,6,1,1,True
+2023-07-20,Brennan Ramos,Immunogen Incorporated,new MAT Kit testing (aMylc cell with IL6 readout),3975.0,4416.779539921576,2023-07-26,Existing Business,Closed Won,316510,2023,2023,6,7,7,True
+2023-03-01,Brennan Ramos,3Spine Incorporated,Gram Staining for implantable med device,3965.0,4405.668144852591,2023-08-08,New Business,Closed Won,300500,2023,2023,160,3,8,True
+2023-07-19,Nicola Wright,GlaxoSmithKline Biologicals SA,Supply of CD1 mice,3786.0,4206.7741731177575,2023-07-24,New Business,Closed Won,316311,2023,2023,5,7,7,True
+2023-10-25,Chad Dubbelde,Immunogen Incorporated,LAL testing - troubleshooting,3720.0,4133.438965662456,2023-10-30,Existing Business,Closed Won,326951,2023,2023,5,10,10,True
+2023-02-15,Kjell Richter,Ferring GmbH,Additional Transport for December,3660.0,4066.770595248545,2023-02-24,Existing Business,Closed Won,298786,2023,2023,9,2,2,True
+2023-08-17,Laura Karkowski,WuXi Biologics Ireland Limited,Expedited Raw material testing,3590.0,3988.99082976565,2023-08-28,Existing Business,Closed Won,319434,2023,2023,11,8,8,True
+2023-05-17,Nicola Wright,Fujifilm Diosynth Biotechnologies,B/F - Sterility on cell lines,3520.0,3911.211064282754,2023-06-21,Existing Business,Closed Lost,309673,2023,2023,35,5,6,False
+2023-04-07,Nicole Kovacs,AstraZeneca Pharmaceuticals LP,Purchasing of Materials,3505.0,3894.543971679276,2023-07-03,Existing Business,Closed Won,305294,2023,2023,87,4,7,True
+2023-10-11,Laura Karkowski,Ultrapure Laboratories,2024 Yearly Quote - Routine Testing for 2024,3500.0,3888.988274144784,2024-01-08,Existing Business,Closed Won,325344,2023,2024,89,10,1,True
+2023-09-13,Laura Karkowski,Merck Serono SpA,RPT Feasibility Study,3350.0,3722.317348110007,2024-02-12,Existing Business,Closed Won,322218,2023,2024,152,9,2,True
+2023-11-14,Francois Devesa,Laboratoires Biove SA, AET Testing,3070.0,3411.1982861784245,2024-01-02,Existing Business,Closed Won,329340,2023,2024,49,11,1,True
+2023-03-24,Nicola Wright,Glycostem Therapeutics BV,Growth promotion - ID,3060.0,3400.0868911094394,2023-07-19,New Business,Closed Lost,303561,2023,2023,117,3,7,False
+2023-03-14,Laura Karkowski,Capua BioServices S.p.A.,micro testing,3050.0,3388.9754960404543,2023-06-01,New Business,Closed Lost,302148,2023,2023,79,3,6,False
+2023-10-03,Kjell Richter,AGC Biologics AS,Sterility testing,2940.0,3266.7501502816185,2023-10-18,Existing Business,Closed Won,324399,2023,2023,15,10,10,True
+2023-04-01,Laura Karkowski,"Hovione Farmaciencia, SA",sterility testing,2875.0,3194.526082333215,2023-06-26,New Business,Closed Won,304575,2023,2023,86,4,6,True
+2023-05-31,Francois Devesa,Ceva Sante Animale,Return of Archive data,2615.0,2905.6298105396027,2024-01-17,Existing Business,Closed Won,311048,2023,2024,231,5,1,True
+2023-06-12,Barbara Moran,Biosentinel Pharmaceuticals,DNA Sequencing Price difference,2599.0,2887.8515784292267,2023-06-13,Existing Business,Closed Won,312322,2023,2023,1,6,6,True
+2023-04-06,Laura Karkowski,Takeda Pharmaceuticals Intl. AG IE,GMP certificates,2480.0,2755.625977108304,2023-04-06,Existing Business,Closed Won,305178,2023,2023,0,4,4,True
+2023-09-22,Michael Spring,Icosagen Cell Factory OU,Test for efficacy of antimicrobial preservation on 4 different bacterial strains,2435.0,2705.624699297871,2023-10-04,New Business,Cancelled,323404,2023,2023,12,9,10,False
+2023-11-09,Amy Zemanek,Biosentinel Pharmaceuticals,MCB Sequencing - amplification,2420.0,2688.957606694393,2023-11-10,Existing Business,Closed Won,328800,2023,2023,1,11,11,True
+2023-03-31,Laura Karkowski,WuXi Vaccines Ireland Limited,Water testing for 3 samples,2413.0,2681.179630146104,2023-04-12,Existing Business,Closed Won,304435,2023,2023,12,3,4,True
+2023-07-31,Laura Karkowski,WuXi Vaccines Ireland Limited,Testing of Biological Indicators,2385.0,2650.067723952945,2023-09-21,Existing Business,Closed Won,317603,2023,2023,52,7,9,True
+2023-10-23,Laura Karkowski,Aerie Pharmaceuticals Ireland Ltd.,Trial work for sterility testing,2290.0,2544.5094707975877,2023-10-26,Existing Business,Closed Won,326684,2023,2023,3,10,10,True
+2023-06-29,Nicola Wright,S-Biomedic NV,MLT testing,2110.0,2344.5043595558554,2023-08-17,New Business,Closed Lost,314386,2023,2023,49,6,8,False
+2023-08-02,Nicola Wright,Bio Products Laboratory Limited,Return of Archive data,2100.0,2333.3929644868704,2023-10-16,Existing Business,Closed Won,317893,2023,2023,75,8,10,True
+2023-03-27,Laura Karkowski,BioMarin Manufacturing Ireland Ltd,Disinfectant Efficacy Testing,2095.0,2327.837266952378,2023-07-31,Existing Business,Closed Won,303719,2023,2023,126,3,7,True
+2023-03-30,Kjell Richter,AGC Biologics AS,37M for 100603 stage 27b _sub-visible particles and CCIT,2047.0,2274.502570621249,2023-04-03,Existing Business,Closed Won,304252,2023,2023,4,3,4,True
+2023-04-13,Nicola Wright,Quotient Sciences (Alnwick) Limited,Environmental monitoring - 1 strain - 1 surface,2005.0,2227.834711331512,2023-10-18,New Business,Closed Lost,305826,2023,2023,188,4,10,False
+2023-10-11,Laura Karkowski,"Wright Medical Technology, Inc.",2024 Yearly Quote - Routine Testing for 2024,2000.0,2222.279013797019,2024-10-07,Existing Business,Closed Lost,325349,2023,2024,362,10,10,False
+2023-05-17,Laura Karkowski,WuXi Vaccines Ireland Limited,Biological Indicator and ID testing,2000.0,2222.279013797019,2023-08-01,Existing Business,Closed Won,309661,2023,2023,76,5,8,True
+2023-03-03,Laura Karkowski,Acgt Vector,media QC check,2000.0,2222.279013797019,2023-05-04,New Business,Closed Lost,300830,2023,2023,62,3,5,False
+2023-04-13,Nicola Wright,Intervet International BV,Viable counting,2000.0,2222.279013797019,2023-05-11,New Business,Closed Won,305845,2023,2023,28,4,5,True
+2023-10-02,Laura Karkowski,WuXi Biologics Ireland Limited,Raw Material Testing,1895.0,2105.609365572676,2023-12-19,Existing Business,Closed Won,324225,2023,2023,78,10,12,True
+2023-11-22,Amanda Sotoodeh,WuXi Biologics Ireland Limited,aw Material Testing - Disodium Hydrogen Phosphate,1895.0,2105.609365572676,2023-11-27,Existing Business,Closed Won,330185,2023,2023,5,11,11,True
+2023-06-08,Laura Karkowski,Ballinskelligs Vet Product,Endotoxin and Microbial Contamination,1870.0,2077.830877900213,2024-03-29,Existing Business,Closed Won,312005,2023,2024,295,6,3,True
+2023-08-30,Nicola Wright,Reacta Biotech Limited,Additional Paperwork requested by Reacta,1860.0,2066.719482831228,2023-09-11,Existing Business,Closed Won,320804,2023,2023,12,8,9,True
+2023-04-11,Bjoern Kolbe,Wuxi Biologics Germany GmbH, Additional Sterility B&F Report x 2,1640.0,1822.268791313556,2024-02-21,Existing Business,Closed Lost,305546,2023,2024,316,4,2,False
+2023-02-28,Laura Karkowski,WuXi Biologics Ireland Limited,"outsourced raw material, routine testing",1620.0,1800.0460011755856,2023-03-23,Existing Business,Closed Won,300388,2023,2023,23,2,3,True
+2023-02-15,Francois Devesa,Ceva Sante Animale,Additional Transport for Nov and Dec 2023,1430.0,1588.9294948648687,2023-02-20,Existing Business,Closed Won,298799,2023,2023,5,2,2,True
+2023-10-05,Laura Karkowski,Stryker Orthopaedics,Sterility (B&F) and Routine testing for Blistered Filled  Ampoules,1400.0,1555.5953096579135,2024-02-20,Existing Business,Closed Lost,324681,2023,2024,138,10,2,False
+2023-09-19,Laura Karkowski,Phibro Animal Health Corporation,Water testing according to EP0008,1340.0,1488.9269392440028,2023-09-27,Existing Business,Closed Won,322882,2023,2023,8,9,9,True
+2023-01-11,Laura Karkowski,Alvotech hf,"GMP certificate with apostille for Costa Rica, Peru & Columbia",1305.0,1450.037056502555,2023-02-20,Existing Business,Closed Won,294101,2023,2023,40,1,2,True
+2023-06-01,Kjell Richter,AGC Biologics AS,CCIT stability Product 80401 Stage 94,1234.0,1371.146151512761,2023-06-07,Existing Business,Closed Won,311237,2023,2023,6,6,6,True
+2023-07-24,Laura Karkowski,WuXi Vaccines Ireland Limited,LIR and ID testing,1226.0,1362.2570354575728,2023-07-28,Existing Business,Closed Won,316807,2023,2023,4,7,7,True
+2023-08-22,Laura Karkowski,Pfizer Ireland Pharma (GC52),Return of Archive Data,1155.0,1283.3661304677787,2023-09-07,Existing Business,Closed Won,319830,2023,2023,16,8,9,True
+2023-08-22,Laura Karkowski,"Stryker Ireland, Ltd",Return of Archive Data,1155.0,1283.3661304677787,2023-08-28,Existing Business,Closed Won,319880,2023,2023,6,8,8,True
+2023-11-01,Laura Karkowski,"Medtronic, Inc.",Return of Archives,1155.0,1283.3661304677787,2023-11-08,Existing Business,Closed Won,327856,2023,2023,7,11,11,True
+2023-09-06,Michael Spring,Q-Med AB,Additional Stats -,1110.0,1233.3648526573456,2023-10-02,Existing Business,Closed Won,321442,2023,2023,26,9,10,True
+2023-11-15,Laura Karkowski,Baxter Healthcare SA, Destruction of Archive Data,1072.5,1191.6971211486516,2024-06-18,Existing Business,Closed Won,329459,2023,2024,216,11,6,True
+2023-10-06,Nicola Wright,Teva NI Limited,Retention of Archive Data,1040.0,1155.58508717445,2023-10-31,Existing Business,Closed Won,324835,2023,2023,25,10,10,True
+2023-07-03,Laura Karkowski,St Angelas College,Supply of rat carcasses,1035.0,1150.0293896399576,2023-07-06,Existing Business,Closed Won,314654,2023,2023,3,7,7,True
+2023-02-15,Galiya Sakaeva,Ceva Tiergesundheit (Reims) GmbH,Additional Transport costs for November,1025.0,1138.9179945709725,2023-03-03,Existing Business,Closed Won,298802,2023,2023,16,2,3,True
+2023-03-03,Angele Ngaha,The University of Sheffield,Cell culture and ID testing,1025.0,1138.9179945709725,2023-04-10,New Business,Closed Lost,300835,2023,2023,38,3,4,False
+2023-10-18,Laura Karkowski,Fujifilm Diosynth Biotechnologies,2024 yearly Quote -Routine testing for 2024,1000.0,1111.1395068985096,2024-09-05,Existing Business,Closed Lost,326198,2023,2024,323,10,9,False
+2023-10-10,Francois Devesa,Pharmaline BV,2024 Yearly Quote - Routine Testing for 2024,1000.0,1111.1395068985096,2024-07-05,Existing Business,Closed Lost,325128,2023,2024,269,10,7,False
+2023-10-11,Laura Karkowski,Ovelle Pharmaceuticals,2024 Yearly Quote - Routine Testing for 2024,1000.0,1111.1395068985096,2024-01-16,Existing Business,Cancelled,325296,2023,2024,97,10,1,False
+2023-10-11,Laura Karkowski,Ovelle Pharmaceuticals,2024 Yearly Quote - Routine Testing for 2024,1000.0,1111.1395068985096,2024-07-29,Existing Business,Closed Lost,325297,2023,2024,292,10,7,False
+2023-10-11,Laura Karkowski,Phillips Medisize Sligo Limited,2024 Yearly Quote - Routine Testing for 2024,1000.0,1111.1395068985096,2024-10-07,Existing Business,Closed Lost,325306,2023,2024,362,10,10,False
+2023-06-22,Michael Spring,Medisize Corporation,Endotoxin Testing,1000.0,1111.1395068985096,2023-09-06,Existing Business,Closed Won,313537,2023,2023,76,6,9,True
+2023-11-06,Laura Karkowski,Ovagen Group Limited,Spore Strips and  IDs,1000.0,1111.1395068985096,2024-02-12,Existing Business,Closed Lost,328271,2023,2024,98,11,2,False
+2023-05-09,Hope Apolinar,"Clasp Therapeutics, Inc.",HO-HCP-Kit,995.0,1105.583809364017,2023-07-24,New Business,Closed Won,308732,2023,2023,76,5,7,True
+2023-08-21,Amy Zemanek,Orchestra Life Sciences,CHO HCP kit,995.0,1105.583809364017,2024-02-02,New Business,Closed Lost,319726,2023,2024,165,8,2,False
+2023-09-06,Laura Karkowski,Bioniche Pharma,Return of Archive Material,937.0,1041.1377179639037,2023-10-18,Existing Business,Closed Won,321398,2023,2023,42,9,10,True
+2023-05-23,Laura Karkowski,Trimproof Ltd,Cytotoxicity testing,780.0,866.6888153808375,2024-02-01,Existing Business,Closed Lost,310217,2023,2024,254,5,2,False
+2023-11-21,Matt Turner,"Evolus, Inc.",Return of Archive data,757.0,841.1326067221718,2024-01-16,Existing Business,Closed Won,330036,2023,2024,56,11,1,True
+2023-07-24,Aisling Mullaney,SAFC Arklow Limited,Return of Data,648.0,720.0184004702343,2023-07-25,Existing Business,Closed Won,316794,2023,2023,1,7,7,True
+2023-06-21,Laura Karkowski,WuXi Vaccines Ireland Limited,Water testing,646.0,717.7961214564373,2024-02-12,Existing Business,Closed Won,313385,2023,2024,236,6,2,True
+2023-07-03,Kjell Richter,AGC Biologics AS," CCIT - Batch No CMC-O-0054, Product 80401",602.0,668.9059831529028,2023-07-04,Existing Business,Closed Won,314640,2023,2023,1,7,7,True
+2023-02-14,Brennan Ramos,Genzyme Corporation,Declaration of Validation of Analytical Procedures,595.0,661.1280066046132,2023-03-14,New Business,Closed Won,298657,2023,2023,28,2,3,True
+2023-09-05,Laura Karkowski,Bristol Myers Squibb,Notarised GMP Cert,595.0,661.1280066046132,2023-09-25,Existing Business,Closed Won,321219,2023,2023,20,9,9,True
+2023-03-10,Nicole McAlpine,"Just-Evotec Biologics, Inc",TOC/Conductivity testing- Just-Evotec,595.0,661.1280066046132,2023-05-30,New Business,Closed Lost,301866,2023,2023,81,3,5,False
+2023-01-31,Laura Karkowski,"Medtronic, Inc.",sterility testing,590.0,655.5723090701207,2023-04-24,Existing Business,Closed Lost,296780,2023,2023,83,1,4,False
+2023-09-13,Nicole McAlpine,PharmaLogic Idaho Falls LLC,Growth Promotion Testing- PharmaLogic,505.0,561.1254509837473,2023-10-09,New Business,Closed Lost,322323,2023,2023,26,9,10,False
+2023-09-13,Nicole McAlpine,PharmaLogic Idaho Falls LLC,"Routine Lot Release, Growth Promotion-PharmaLogic",505.0,561.1254509837473,2024-01-16,New Business,Closed Lost,322326,2023,2024,125,9,1,False
+2023-05-29,Laura Karkowski,WuXi Vaccines Ireland Limited,ID of samples,500.0,555.5697534492548,2023-07-28,Existing Business,Cancelled,310812,2023,2023,60,5,7,False
+2023-07-28,Haewon Ahn,Celltrion Incorporated,LAL test,485.0,538.9026608457772,2023-08-03,Existing Business,Closed Lost,317439,2023,2023,6,7,8,False
+2023-02-22,Laura Karkowski,Horizon Therapeutics Ireland DAC,statistics of outliers,480.0,533.3469633112846,2023-05-10,Existing Business,Closed Won,299633,2023,2023,77,2,5,True
+2023-07-04,Laura Karkowski,WuXi Vaccines Ireland Limited,QC  check of  Agar/Culture Medium,460.0,511.1241731733144,2023-07-18,Existing Business,Closed Won,314790,2023,2023,14,7,7,True
+2023-12-18,Aisling Mullaney,Ultrapure Laboratories,Destruction of Archive Material,357.0,396.676803962768,2024-01-16,Existing Business,Closed Won,332851,2023,2024,29,12,1,True
+2023-10-17,Nicola Wright,MicroPharm Ltd,Return of Archive Data,337.0,374.45401382479776,2023-10-19,Existing Business,Closed Won,326017,2023,2023,2,10,10,True
+2023-08-02,Laura Karkowski,Topchem Pharmaceuticals,Return of Archives,331.0,367.78717678340666,2023-08-02,Existing Business,Closed Won,317895,2023,2023,0,8,8,True
+2023-09-06,Laura Karkowski,Alkermes Pharma Ireland Ltd,Return of Archive Material,244.0,271.1180396832364,2024-01-17,Existing Business,Closed Won,321397,2023,2024,133,9,1,True
+2023-12-27,Laura Karkowski,Bimeda Animal Health Ltd.,Destruction of Archive Data,215.0,238.8949939831796,2024-01-03,Existing Business,Closed Won,333578,2023,2024,7,12,1,True
+2023-01-11,Laura Karkowski,B. Braun Medical Limited,water bioburden testing,177.0,196.6716927210362,2023-04-14,New Business,Closed Lost,294147,2023,2023,93,1,4,False
+2022-12-15,Laura Karkowski,Mylan Ireland Ltd,2023 Yearly Quote - Routine Testing for 2023,1.0,1.1111395068985097,2023-02-07,Existing Business,Closed Won,292046,2022,2023,54,12,2,True
+2022-12-15,Laura Karkowski,Mylan Ireland Ltd,2023 Yearly Quote - Routine Testing for 2023,1.0,1.1111395068985097,2023-02-07,Existing Business,Closed Won,292059,2022,2023,54,12,2,True
+2023-02-08,Laura Karkowski,Mylan Ireland Ltd,2023 yearly Quote - Sterility testing for Insulin,1.0,1.1111395068985097,2023-02-21,Existing Business,Closed Won,297861,2023,2023,13,2,2,True
+2023-11-28,Aisling Mullaney,Cobra Biologics Holding Ltd,2024 yearly Quote - Routine testing for 2024,1.0,1.1111395068985097,2024-01-04,Existing Business,Closed Won,330640,2023,2024,37,11,1,True
+2023-10-17,Aisling Mullaney,Charles River Laboratories Germany,ERK annual General Price list,1.0,1.1111395068985097,2024-01-02,Existing Business,Closed Won,326062,2023,2024,77,10,1,True
+2022-12-20,Kjell Richter,Ferring Pharmaceuticals A/S,PPA,1.0,1.1111395068985097,2023-05-30,Existing Business,Closed Lost,292524,2022,2023,161,12,5,False
+2023-08-15,Anne Martin,United Kingdom Health Security Agency,RFI - Ferret,1.0,1.1111395068985097,2024-06-13,Existing Business,Closed Lost,319189,2023,2024,303,8,6,False
+2023-07-17,Laura Karkowski,Regeneron Pharmaceuticals Inc,Virology RFI--RGRN,1.0,1.1111395068985097,2024-02-21,New Business,Closed Lost,316098,2023,2024,219,7,2,False
